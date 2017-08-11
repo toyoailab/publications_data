@@ -1,0 +1,1030 @@
+[
+    {
+        "author": [
+            "岡崎_裕文",
+            "金井_祐輔",
+            "尾形_正泰",
+            "長谷川_孔明",
+            "石井_健太郎",
+            "今井_倫太"
+        ],
+        "title": "Toward_Understanding_Pedagogical_Relationship_in_Human-Robot_Interaction",
+        "year": "2016-02",
+        "page": "pp.69-78",
+        "no": "No.1",
+        "vol": "Vol.28",
+        "book": "Journal_of_Robotics_and_Mechatronics"
+    },
+    {
+        "author": [
+            "Satoru_Satake​",
+            "Keita_Nakatani",
+            "Kotaro_Hayashi",
+            "Takyuki_Kanda",
+            "Michita_Imai"
+        ],
+        "title": "What_should_we_know_to_develop_an_information_robot?",
+        "year": "2015-06",
+        "page": "pp.1-23",
+        "no": "",
+        "vol": "",
+        "book": "PeerJ_Comput._Sci"
+    },
+    {
+        "author": [
+            "Mahisorn_Wongphati",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Gestures_for_Manually_Controlling_a_Helping_Hand_Robot",
+        "year": "2015-05",
+        "page": "pp.1-12",
+        "no": "",
+        "vol": "",
+        "book": "International_Journal_of_Social_Robotics"
+    },
+    {
+        "author": [
+            "Mahisorn_Wongphati",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "User-defined_gestures_for_controlling_primitive_motions_of_an_end_effector",
+        "year": "2015-02",
+        "page": "pp.225-238",
+        "no": "No.4",
+        "vol": "Vol.29",
+        "book": "Advanced_Robotics"
+    },
+    {
+        "author": [
+            "大隅_俊宏",
+            "大澤_博隆",
+            "今井_倫太"
+        ],
+        "title": "ソシオン理論に基づいたクラス内のいじめと同調方略のモデル化",
+        "year": "2014-04",
+        "page": "pp. 560-570",
+        "no": "No._4",
+        "vol": "Vol._134",
+        "book": "電気学会論文誌C（電子・情報・システム部門誌）"
+    },
+    {
+        "author": [
+            "大澤博隆",
+            "飛田国星",
+            "桑山裕基",
+            "今井倫太",
+            "山田誠二"
+        ],
+        "title": "二軸の振る舞いによる人間-空箱間の物集めタスクの実行",
+        "year": "2013-02",
+        "page": "pp. 39–50",
+        "no": "no._1",
+        "vol": "vol._15",
+        "book": "ヒューマンインタフェース学会論文誌"
+    },
+    {
+        "author": [
+            "Masato_SAKATA",
+            "Zeynep_Yucel",
+            "Kazuhiko_Shinozawa",
+            "",
+            "No.ihiro_Hagita",
+            "Michita_Imai",
+            "Michiko_FURUTANI",
+            "Rumiko_Matsuoka"
+        ],
+        "title": "An_Inference_Engine_for_Estimating_Outside_States_of_Clinical_Test_Items”",
+        "year": "2013",
+        "page": " 13:1-13:21",
+        "no": "No.3",
+        "vol": "Vol.4",
+        "book": "ACM_Transaction_on_Management_Information_System_(TMIS)"
+    },
+    {
+        "author": [
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "Collaborative_Task_Casting:_A_Task_Selection_Technique_for_Multi-Task_Autonomous_Robots",
+        "year": "2013-03",
+        "page": "pp.157-165",
+        "no": "No.2",
+        "vol": "Vol.6",
+        "book": "'The_SICE_Journal_of_Control_Measurement_and_System_Integration_(SICE_JCMSI)'"
+    },
+    {
+        "author": [
+            "大澤_博隆",
+            "今井_倫太"
+        ],
+        "title": "エージェントのインタラクション戦略探索のための没入型発見法",
+        "year": "2013-3",
+        "page": "pp.160-169",
+        "no": "No.2",
+        "vol": "Vol.28",
+        "book": "人工知能学会論文誌"
+    },
+    {
+        "author": [
+            "石井_健太郎",
+            "谷口_祐司",
+            "大澤_博隆",
+            "中臺_一博",
+            "今井_倫太"
+        ],
+        "title": "投影型遠隔コミュニケーションにおけるユーザとアバタの視点の一致",
+        "year": "2013-4",
+        "page": "pp.1413-1421",
+        "no": "No.4",
+        "vol": "Vol.54",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "Masa_Ogata",
+            "Yuta_Sugiura",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "PYGMY:_A_RING-SHAPED_ROBOTIC_DEVICE_FOR_STORYTELLING",
+        "year": "2013-11",
+        "page": " pp.4619-4629",
+        "no": "No.12",
+        "vol": "Vol.9",
+        "book": "International_Journal_of_Innovative_Computing_Information_and_Control"
+    },
+    {
+        "author": [
+            "志和_敏之",
+            "奥野_佑将",
+            "神田_崇行",
+            "今井_倫太",
+            "石黒_浩",
+            "萩田_紀博"
+        ],
+        "title": "コミュニケーションロボットによる道案内_-ジェスチャの有用性と発話タイミングのモデル化",
+        "year": "2012-10",
+        "page": "No.10",
+        "no": "",
+        "vol": "Vol.J95-D",
+        "book": "電子情報通信学会"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Yuji_Matsuda",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Embodiment_of_an_agent_by_anthropomorphization_of_a_common_object",
+        "year": "2012-10",
+        "page": "pp. 345-358",
+        "no": "",
+        "vol": "",
+        "book": "Web_Intelligence_and_Agent_Systems:_An_International_Journal"
+    },
+    {
+        "author": [
+            "杉山_治",
+            "篠沢_一彦",
+            "今井_倫太",
+            "萩田_紀博"
+        ],
+        "title": "コミュニケーションロボットのための発話とジェスチャのアサインパターンの抽出とその発展的開発手法の提案",
+        "year": "2012-01",
+        "page": "pp.46-59",
+        "no": "",
+        "vol": "",
+        "book": "電子情報通信学会論文誌_A_人とエージェントのインタラクション論文特集"
+    },
+    {
+        "author": [
+            "鳩康彦",
+            "佐竹聡",
+            "神田崇行",
+            "今井倫太",
+            "萩田紀博",
+            "安西祐一郎"
+        ],
+        "title": "コミュニケーションロボットによる領域参照のための直示的インタラクションの_モデル化",
+        "year": "2011-07",
+        "page": "pp.52-63",
+        "no": "No.6",
+        "vol": "Vol.29",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "Bin_Guo",
+            "Daqing_Zhang",
+            "Michita_Imai"
+        ],
+        "title": "Towards_an_Cooperative_Programming_Framework_for_Context-Aware_Applications",
+        "year": "2011-03",
+        "page": "pp.221-233",
+        "no": "",
+        "vol": "Vol.5",
+        "book": "Personal_and_Ubiquitous_Computing_(PUC)"
+    },
+    {
+        "author": [
+            "Bin_Guo",
+            "Daqing_Zhang",
+            "Michita_Imai"
+        ],
+        "title": "Enabling_User-Oriented_Management_for_Ubiquitous_Computing:_The_Meta-Design_Approach",
+        "year": "2010-11",
+        "page": "pp.2840-2855",
+        "no": "",
+        "vol": "Vol.54",
+        "book": "Computer_Networks"
+    },
+    {
+        "author": [
+            "Futoshi_Naya",
+            "Ren_Ohmura",
+            "Masakazu_Miyamae",
+            "Haruo",
+            "No.a",
+            "Kiyoshi_Kogure",
+            "Michita_Imai"
+        ],
+        "title": "Wireless_sensor_network_system_for_supporting_nursing_context-awareness",
+        "year": "2010-09",
+        "page": "pp.361-382",
+        "no": "No.4",
+        "vol": "Vol.4",
+        "book": "International_Journal_of_Autonomous_and_Adaptive_Communications_Systems__(IJAACS)"
+    },
+    {
+        "author": [
+            "Hitoshi_Kawasaki",
+            "Ren_Ohmura",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "A_Model_for_Addition_of_User_Information_to_Sensor_Data_Obtained__from_Living_Environment",
+        "year": "2010-08",
+        "page": "pp.194-215",
+        "no": "",
+        "vol": "Vol.41",
+        "book": "Cybernetics_and_Systems:_An_International_Journal_Volume"
+    },
+    {
+        "author": [
+            "佐竹_聡",
+            "神田_崇行",
+            "GLAS_Dylan_F.",
+            "今井_倫太",
+            "石黒_浩",
+            "萩田_紀博"
+        ],
+        "title": "対話ロボットの人間へのアプローチ方法_:_対話ロボットの対話開始に対する戦略",
+        "year": "2010-04",
+        "page": "pp.327-337",
+        "no": "No.3",
+        "vol": "Vol.28",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "藤村_亮太",
+            "郭_斌",
+            "大村_廉",
+            "中臺_一博",
+            "今井_倫太"
+        ],
+        "title": "実物体を扱う遠隔協調作業を支援する壁面投影移動型アバタシステムRemyの提案",
+        "year": "2010-01",
+        "page": "pp.701-712",
+        "no": "No.5",
+        "vol": "Vol.21",
+        "book": "日本知能情報ファジィ学会誌「知能と情報」"
+    },
+    {
+        "author": [
+            "Antoine_Chaussin",
+            "Hirotaka_Osawa",
+            "Ren_Oomura_and_Michita_Imai"
+        ],
+        "title": "Mundus_Traducere_:_Interpretation_of_Natural_Language_using_a_Semantic_Sensor_Network",
+        "year": "2009-11",
+        "page": "23-25",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_Workshop_on_Advanced_Robotics"
+    },
+    {
+        "author": [
+            "松田_祐児",
+            "大澤_博隆",
+            "大村_廉",
+            "今井_倫太"
+        ],
+        "title": "SRTを用いた擬人化_ロボットの表出要素の組合せ評価",
+        "year": "2009-11",
+        "page": "pp.806-817",
+        "no": "No.11",
+        "vol": "Vol.A92-A",
+        "book": "電子情報通信学会論文誌"
+    },
+    {
+        "author": [
+            "石井健太郎",
+            "鳩康彦",
+            "Thomas_Kanold",
+            "今井倫太"
+        ],
+        "title": "自発的に話しかける対話ロボットの話しかけの一手法",
+        "year": "2009-10",
+        "page": "pp.693-700",
+        "no": "No.5",
+        "vol": "Vol.21_",
+        "book": "知能と情報"
+    },
+    {
+        "author": [
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "Environmental_sensor_bridge_system_for_communication_robots_Authors",
+        "year": "2009-07",
+        "page": "pp.211-221",
+        "no": "No._3",
+        "vol": "Vol.1",
+        "book": "Journal_of_Ambient_Intelligence_and_Smart_Environments"
+    },
+    {
+        "author": [
+            "Toshiyuki_Shiwa",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro_and",
+            "No.ihiro_Higata"
+        ],
+        "title": "How_quickly_should_a_communication_robot_respond?",
+        "year": "2009-04",
+        "page": "pp.141-155",
+        "no": "No.2",
+        "vol": "Vol.1",
+        "book": "International_Journal_of_Social_Robotics"
+    },
+    {
+        "author": [
+            "納谷_太",
+            "高橋悟史",
+            "宮前雅一",
+            "寺田_努",
+            "野間春生",
+            "鳥山朋二",
+            "小暮_潔",
+            "西尾章治郎",
+            "今井倫太"
+        ],
+        "title": "複数人物の位置追跡のためのZigBeeセンサネットワークの開発",
+        "year": "2009-03",
+        "page": "pp.55-66",
+        "no": "No.1",
+        "vol": "Vol.14",
+        "book": "日本バーチャルリアリティ学会論文誌"
+    },
+    {
+        "author": [
+            "大澤_博隆",
+            "野田_誠人",
+            "大村_廉",
+            "今井_倫太"
+        ],
+        "title": "擬人化した物体からの情報提示手法のための後付け可能な指示区画検知センサの開発",
+        "year": "2009-02",
+        "page": "pp.12-23",
+        "no": "No.1",
+        "vol": "Vol.21",
+        "book": "知能と情報（日本知能情報ファジィ学会誌）"
+    },
+    {
+        "author": [
+            "佐竹_聡",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "Seshat:作業で関わった実世界オブジェクトによるコンテンツ検索",
+        "year": "2009-02",
+        "page": "pp.1-15",
+        "no": "No.1",
+        "vol": "Vol.11",
+        "book": "ヒューマンインタフェース学会論文誌"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Using_Attachable_Humanoid_Parts_for_Realizing_imaginary_Intention_and_Body_Image",
+        "year": "2009-01",
+        "page": "pp.109-123",
+        "no": "No.1",
+        "vol": "Vol.1",
+        "book": "International_Journal_of_Social_Robotics"
+    },
+    {
+        "author": [
+            "志和敏之",
+            "神田崇行",
+            "今井倫太",
+            "石黒浩",
+            "萩田紀博",
+            "安西祐一郎"
+        ],
+        "title": "対話ロボットの反応時間と反応遅延時における間投詞の効果",
+        "year": "2009-01",
+        "page": "pp.87-95",
+        "no": "No._1.",
+        "vol": "Vol._27.",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "古山真之",
+            "大村廉",
+            "今井倫太"
+        ],
+        "title": "インタラクティブに音楽を検索·発見できるソフトウェア「音楽夢想」",
+        "year": "2008-12",
+        "page": "pp.3918-3932",
+        "no": "No.12",
+        "vol": "Vol.49",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "Bin_Guo",
+            "Satoru_Satake",
+            "Michita_Imai"
+        ],
+        "title": "Lowering_the_barriers_to_participation_in_the_human-artifact_interaction_systems",
+        "year": "2008-12",
+        "page": "pp.469–502",
+        "no": "No.4",
+        "vol": "Vol.2",
+        "book": "International_Journal_of_Semantic_Computing_(IJSC)_Special_Issue_on_Ambient_Semantic_Computing"
+    },
+    {
+        "author": [
+            "Chihiro_Ono",
+            "Yasuhiro_Takishima",
+            "Yoichi_Motomura",
+            "Hideki_Asoh",
+            "Yasuhide_Shinagawa",
+            "Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Context-Aware_Users’_Preference_Models_by_Integrating_Real_and_Supposed_Situation_Data",
+        "year": "2008-11",
+        "page": "pp.2552-2559",
+        "no": "No.11",
+        "vol": "Vol._E91-D",
+        "book": "IEICE_Transactions_on_Information_and_Systems"
+    },
+    {
+        "author": [
+            "大澤博隆",
+            "大村廉",
+            "今井倫太"
+        ],
+        "title": "直接擬人化手法を用いた機器からの情報提示の評価",
+        "year": "2008-08",
+        "page": "pp.11-20",
+        "no": "No.3",
+        "vol": "Vol.10",
+        "book": "ヒューマンインタフェース学会論文誌(特集号：オフィス・家庭における次世代インタフェース)"
+    },
+    {
+        "author": [
+            "Bin_Guo",
+            "Satoru_Satake",
+            "Michita_Imai"
+        ],
+        "title": "Home-Explorer:_Ontology-based_Physical_Artifact_Search_and_Hidden_Object_Detection_System",
+        "year": "2008-04",
+        "page": "pp.81-103",
+        "no": "No.2",
+        "vol": "Vol.4",
+        "book": "International_Journal_of_Mobile_Information_Systems_(IJMIS)"
+    },
+    {
+        "author": [
+            "杉山治",
+            "神田崇行",
+            "今井倫太",
+            "石黒浩",
+            "萩田紀博",
+            "安西祐一郎"
+        ],
+        "title": "人とコミュニケーション_ロホットの直示的な会話の実現",
+        "year": "2008-02",
+        "page": "pp. 73-86",
+        "no": "No.1",
+        "vol": "Vol.10",
+        "book": "ヒューマンインタフェース学会論文誌"
+    },
+    {
+        "author": [
+            "鳴海真里子",
+            "梅澤猛",
+            "今井倫太"
+        ],
+        "title": "周辺のセンサデバイスに基づくロボットの演出行動の選択",
+        "year": "2008-01",
+        "page": "pp.37-50",
+        "no": "No.1",
+        "vol": "Vol.J91-D",
+        "book": "電子情報通信学会論文誌D"
+    },
+    {
+        "author": [
+            "佐竹聡",
+            "川島英之",
+            "今井倫太",
+            "安西_祐一郎"
+        ],
+        "title": "Brownie:_カメラ上に指定された過去のランドマーク情報に基づく実世界探し物検索システム",
+        "year": "2007-10",
+        "page": "pp.556-569",
+        "no": "No.5",
+        "vol": "Vol.19",
+        "book": "知能と情報(日本知能情報ファジィ学会誌)"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Anthropomorphization_Framework_for_Human-Object_Communication",
+        "year": "2007-08",
+        "page": "pp.1007-1014",
+        "no": "No.8",
+        "vol": "Vol.11",
+        "book": "Journal_of_Advanced_Computational_Intelligence_and_Intelligent_Informatics_(JACIII)"
+    },
+    {
+        "author": [
+            "広瀬健志郎",
+            "川島英之",
+            "佐竹_聡",
+            "今井倫太"
+        ],
+        "title": "異種ロボット間でのジェスチャ情報の共有化",
+        "year": "2007-06",
+        "page": "pp.125-128",
+        "no": "No.1",
+        "vol": "Vol.6",
+        "book": "日本データベース学会Letters"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda",
+            "Masayuki_Kamasima",
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Daisuke_Sakamoto",
+            "Hiroshi_Ishiguro",
+            "Yuichiro_Anzai"
+        ],
+        "title": "A_humanoid_robot_that_pretends_to_listen_to_route_guidance_from_a_human",
+        "year": "2007-01",
+        "page": "pp. 87-100",
+        "no": "No.1",
+        "vol": "Vol._22",
+        "book": "Autonomous_Robots"
+    },
+    {
+        "author": [
+            "広田_裕",
+            "川島_英之",
+            "佐竹_聡",
+            "梅沢_猛",
+            "今井_倫太"
+        ],
+        "title": "セマンティック・センサネットワークの実現に向けた実世界指向メタデータ管理システムMeTの設計と実装",
+        "year": "2006-12",
+        "page": "pp.1090—1103",
+        "no": "No.12",
+        "vol": "Vol.89-A",
+        "book": "信学論A"
+    },
+    {
+        "author": [
+            "Osamu_Sugiyama",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "",
+            "No.ihiro_Hagita",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Humanlike_conversation_with_gestures_and_verbal_cues_based_on_a_three-layer_attention-drawing_model",
+        "year": "2006-12",
+        "page": "pp.379-402",
+        "no": "",
+        "vol": "",
+        "book": "connection_science"
+    },
+    {
+        "author": [
+            "杉山治",
+            "神田祟行",
+            "今井倫太",
+            "石黒浩",
+            "萩田紀博",
+            "安西祐一郎"
+        ],
+        "title": "コミュニケーションロボットのための指さしと指示語を用いた3段階注意誘導モデル",
+        "year": "2006-09",
+        "page": "pp.964—975",
+        "no": "No.8",
+        "vol": "Vol.24",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "梅沢_猛",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "Baumを用いたモバイルユーザ向け周辺情報提示アプリケーション",
+        "year": "2006-07",
+        "page": "pp.2117—2124",
+        "no": "No.7",
+        "vol": "Vol.47",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "中村_学",
+            "川島_英之",
+            "佐竹_聡",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "RSV:コミュニケーションロボットのためのセンサデータ解析支援システム",
+        "year": "2006-06",
+        "page": "pp.105—120",
+        "no": "No.SIG_8",
+        "vol": "Vol.47",
+        "book": "情報処理学会論文誌：データベース"
+    },
+    {
+        "author": [
+            "今井_倫太",
+            "鳴海_真里子"
+        ],
+        "title": "人間の五感を利用したロボットとのコミュニケーションへの没入の実現",
+        "year": "2006-04",
+        "page": "pp.342—350",
+        "no": "No.4",
+        "vol": "Vol.42",
+        "book": "計測自動制御学会論文集"
+    },
+    {
+        "author": [
+            "梅澤_猛",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "領域可変型検索手法Baumによるモバイルユーザのための周辺情報提示",
+        "year": "2005-12",
+        "page": "pp.3008—3015",
+        "no": "No.12",
+        "vol": "Vol.46",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "中村_学",
+            "川島_英之",
+            "佐竹_聡",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "コミュニケーションロボットのためのセンサデータ可視化ソフトウェアRSVの設計と実装",
+        "year": "2005-10",
+        "page": "pp.89—92",
+        "no": "No.2",
+        "vol": "Vol.4",
+        "book": "日本データベース学会Letters"
+    },
+    {
+        "author": [
+            "神田_崇行",
+            "鎌島_正幸",
+            "今井_倫太",
+            "小野_哲雄",
+            "坂本_大介",
+            "石黒_浩",
+            "安西_祐一郎"
+        ],
+        "title": "人間型対話ロボットのための協調的身体動作の利用",
+        "year": "2005-10",
+        "page": "pp.132—143",
+        "no": "No.7",
+        "vol": "Vol.23",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "向井_淳",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "観測指向モデルによるロボットの自発的な行動基準の生成",
+        "year": "2005-06",
+        "page": "pp.314-324",
+        "no": "No.3",
+        "vol": "Vol.17",
+        "book": "知能と情報(日本知能情報ファジイ学会誌)"
+    },
+    {
+        "author": [
+            "Daisuke_Sakamoto",
+            "Takayuki_Kanda",
+            "Tetsuo_Ono",
+            "Masayuki_Kamashima",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Cooperative_embodied_communication_emerged_by_interactive_humanoid_robots",
+        "year": "2005-02",
+        "page": "pp.247-265",
+        "no": "",
+        "vol": "Vol.62_issue-2",
+        "book": "International_Journal_of_Human-Computer_Studies"
+    },
+    {
+        "author": [
+            "川島_英之",
+            "今井_倫太",
+            "遠山_元道",
+            "安西__祐一郎"
+        ],
+        "title": "センサデータベースシステムKRAFTの設計と実装",
+        "year": "2004-12",
+        "page": "pp.39-53",
+        "no": "No.14",
+        "vol": "Vol.45",
+        "book": "情報処理学会論文誌:データベース"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda",
+            "Hiroshi_Ishiguro",
+            "Michita_Imai",
+            "Tetsuo_Ono"
+        ],
+        "title": "Development_and_Evaluation_of_Interactive_Humanoid_Robots",
+        "year": "2004-11",
+        "page": "pp.1839-1850",
+        "no": "No.11",
+        "vol": "Vol.92",
+        "book": "IEEE_Special_Issue_on:_Human_Interactive_Robots_for_Psychological_Enrichment"
+    },
+    {
+        "author": [
+            "神田_崇行",
+            "今井_倫太",
+            "小野_哲雄",
+            "石黒_浩"
+        ],
+        "title": "人-ロボット相互作用における身体動作の数値解析",
+        "year": "2003-11",
+        "page": "pp.2699-2709",
+        "no": "No.11",
+        "vol": "Vol.44",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Kazuo_Hiraki",
+            "Tsutomu_Miyasato",
+            "Ryouhei_Nakatsu、Yuichiro_Anzai"
+        ],
+        "title": "Interaction_with_Robots:_Physical_Constraints_on_the_Interpretation__of_Demonstrative_Pronouns",
+        "year": "2003-10",
+        "page": "pp.367-384",
+        "no": "No.2",
+        "vol": "Vol.16",
+        "book": "International_Journal_of_Human_Computer_Interaction"
+    },
+    {
+        "author": [
+            "川島_英之",
+            "遠山_元道",
+            "今井_倫太",
+            "安西__祐一郎"
+        ],
+        "title": "リモートメモリを用いたセンサデータストリームの永続化",
+        "year": "2003-09",
+        "page": "pp.98-109",
+        "no": "No.SIG12(TOD19)",
+        "vol": "Vol.44",
+        "book": "情報処理学会論文誌：データベース"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Physical_Relation_and_Expression:_Joint_Attention_for_Human-Robot__Interaction",
+        "year": "2003-08",
+        "page": "pp.636-643",
+        "no": "No.4",
+        "vol": "Vol.50",
+        "book": "IEEE_transaction_on_Industrial_Electronics"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Robovie:_Communication_Technologies_for_a_Social_Robot",
+        "year": "2003-07",
+        "page": "pp.73-77",
+        "no": "",
+        "vol": "Vol.6",
+        "book": "Journal_of_Artificial_Life_and_Robotics"
+    },
+    {
+        "author": [
+            "Hiroshi_Isiguro",
+            "_Tetsuo_Ono",
+            "Michita_Imai",
+            "Takayuki_Kanda"
+        ],
+        "title": "Development_of_an_interactive_humanoid_robot_Robovie_-An_interdisciplinary_approach",
+        "year": "2003-06",
+        "page": "pp.179-191",
+        "no": "",
+        "vol": "",
+        "book": "Robotics_Research"
+    },
+    {
+        "author": [
+            "神田崇行",
+            "石黒浩",
+            "小野哲雄",
+            "今井倫太",
+            "中津良平"
+        ],
+        "title": "人-ロボットの対話におけるロボット同士の対話観察の効果",
+        "year": "2002-07",
+        "page": "pp.691-700",
+        "no": "No.7",
+        "vol": "Vol.85-D-I",
+        "book": "電子情報通信学会和文論文誌D-I"
+    },
+    {
+        "author": [
+            "神田崇行",
+            "石黒浩",
+            "小野哲雄",
+            "今井倫太",
+            "中津良平"
+        ],
+        "title": "人間と相互作用する自律型ロボットRobovieの評価",
+        "year": "2002-04",
+        "page": "pp.315-323",
+        "no": "No.3",
+        "vol": "Vol.20",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "神田崇行",
+            "石黒浩",
+            "小野哲雄",
+            "今井倫太、中津良平"
+        ],
+        "title": "研究用プラットフォームとしての日常活動型ロボット“Robovie”の開発、",
+        "year": "2002-04",
+        "page": "pp.380-389",
+        "no": "No.4",
+        "vol": "Vol.85-D-I",
+        "book": "電子情報通信学会和文論文誌D-I"
+    },
+    {
+        "author": [
+            "今井倫太",
+            "小野哲雄",
+            "中津良平",
+            "安西祐一郎"
+        ],
+        "title": "協調伝達モデル：関係性に基づくヒューマンロボットインタフェース",
+        "year": "2002-03",
+        "page": "pp.370-379",
+        "no": "No.3",
+        "vol": "Vol.J85-A",
+        "book": "電子情報通信学会論文誌"
+    },
+    {
+        "author": [
+            "Hiroshi_Ishiguro",
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Takayuki_Kanda"
+        ],
+        "title": "Robovie:_an_Interactive_humanoid_robot",
+        "year": "2001-12",
+        "page": "pp.498-503",
+        "no": "No.6",
+        "vol": "Vol._28",
+        "book": "Industrial_Robotics:_An_International_Journal"
+    },
+    {
+        "author": [
+            "今井倫太",
+            "小野哲雄",
+            "石黒浩",
+            "中津良平",
+            "安西祐一郎"
+        ],
+        "title": "ロボットからの発話：自発性発話生成のための注意の表出機構の実現",
+        "year": "2001-11",
+        "page": "pp.2618-2629",
+        "no": "No.11",
+        "vol": "Vol.42",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "小野哲雄",
+            "今井倫太",
+            "石黒浩",
+            "中津良平"
+        ],
+        "title": "身体表現を用いた人とロボットの共創対話",
+        "year": "2001-06",
+        "page": "pp.1348-1358",
+        "no": "No.6",
+        "vol": "Vol.42",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Ryouhei_Nakatsu"
+        ],
+        "title": "Reading_a_robot’s_mind:_a_model_of_utterance_understanding_based_on_the_Theory_of_Mind_Mechanism",
+        "year": "2000-06",
+        "page": "pp.311-326",
+        "no": "No.4",
+        "vol": "Vol.14",
+        "book": "Intl._Journal_of_Advanced_Robotics"
+    },
+    {
+        "author": [
+            "小野哲雄",
+            "今井倫太",
+            "江谷為之",
+            "中津良平"
+        ],
+        "title": "ヒューマンロボットインタラクションにおける関係性の創出",
+        "year": "2000-01",
+        "page": "pp.158-166",
+        "no": "No.1",
+        "vol": "Vol.41",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "今井倫太",
+            "篠沢一彦"
+        ],
+        "title": "自発的注意機構による呼びかけからの行動生成システム",
+        "year": "1998-11",
+        "page": "pp.2635-2644",
+        "no": "No.11",
+        "vol": "Vol.J81-D-II",
+        "book": "信学論D-II"
+    },
+    {
+        "author": [
+            "今井倫太",
+            "開一夫",
+            "安西祐一郎"
+        ],
+        "title": "注意機構を利用したヒューマンロボットインタフェース",
+        "year": "1994-08",
+        "page": "pp.1447-1456",
+        "no": "No.8",
+        "vol": "Vol.J77-D-II",
+        "book": "電子情報通信学会D-II"
+    }
+]
