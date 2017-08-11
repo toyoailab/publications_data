@@ -1,6 +1,20 @@
 [
     {
         "author": [
+			"Masahiko_Osawa", 
+			"Michita_Imai", 
+			"Hiroshi_Yamakawa"
+        ],
+        "title": "An Implementation of Working Memory Using Stacked Half Restricted Boltzmann Machine: Toward to Restricted Boltzmann Machine-Based Cognitive Architecture.",
+        "year": "2016",
+        "page": " pp.342-350",
+        "no": "",
+        "vol": "",
+        "book": "The 23rd International Conference on Neural Information Processing",
+        "abbrv": "ICONIP"
+    },
+    {
+        "author": [
             "Yuuki_Yasumatsu",
             "Taichi_Sono",
             "Komei_Hasegawa",
