@@ -1,0 +1,147 @@
+[
+    {
+        "author": [
+            "Osamu_Sugiyama",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "Norihiro_Hagita"
+        ],
+        "title": "Natural_Deictic_Communication_with_Humanoid_Robots",
+        "year": "2007",
+        "page": "pp.1441-1448",
+        "no": "",
+        "vol": "",
+        "book": "IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Yuji_Kitazawa",
+            "Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Robot_Behaviors_Connected_with_Utterances_and_Environments_via_Potential_Fields",
+        "year": "2007",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "SICE_Annual_Conference",
+        "abbrv": "SICE"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Display_Robot_&#8211;_Interaction_between_Humans_and_Anthropomorphized_Objects",
+        "year": "2007",
+        "page": "pp.451-456",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_RO-MAN2007",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Kentaro_Ishii",
+            "Kazuhiro_Takasuna",
+            "and_Michita_Imai"
+        ],
+        "title": "Collaborative_Task_Casting_for_Multi-Task_Communication_Robots",
+        "year": "2007",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_RO-MAN2007",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Kentaro_Ishii",
+            "Yukiko_Yamamoto",
+            "Michita_Imai",
+            "Kazuhiro_Nakadai"
+        ],
+        "title": "A_Navigation_System_Using_Ultrasonic_Directional_Speaker_with_Rotating_Base",
+        "year": "2007",
+        "page": "pp.526-535",
+        "no": "",
+        "vol": "",
+        "book": "Lecture_Notes_in_Computer_Science_4558",
+        "abbrv": "HCI"
+    },
+    {
+        "author": [
+            "Satoru_Satake",
+            "Hideyuki_Kawashima，Michita_Imai"
+        ],
+        "title": "Brownie:_Searching_Concealed_Real_World_Artifacts",
+        "year": "2007",
+        "page": "pp.159-162",
+        "no": "",
+        "vol": "",
+        "book": "Proc._of_4th_International_Conference_on_Networked_Sensing_Systems",
+        "abbrv": "INSS"
+    },
+    {
+        "author": [
+            "Guo",
+            "Bin",
+            "Imai",
+            "Michita"
+        ],
+        "title": "Home-Explorer:_Search,_Localize_and_Manage_the_Physial_Artifacts_Indoors",
+        "year": "2007",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Advanced_Information_Networking_and_Applications",
+        "abbrv": "AINA"
+    },
+    {
+        "author": [
+            "Manabu_Nakamura，Hideyuki_Kawashima，Satoru_Satake，Michita_Imai"
+        ],
+        "title": "Mana:_A_Real_World_Oriented_Query_Processing_System_Supporting_Control_of_Sensor_Characteristic",
+        "year": "2007",
+        "page": "pp.17-24",
+        "no": "",
+        "vol": "",
+        "book": "Proc._of_the_International_Workshop_on_SensorWebs,_Databases_and_Mining_in_Networked_Sensing_Systems",
+        "abbrv": "SWDMNSS"
+    },
+    {
+        "author": [
+            "Takeshi_Kanda",
+            "Yutaka_Yanagisawa",
+            "Takuya_Maekawa",
+            "Michita_Imai",
+            "Hideyuki_Kawashima",
+            "Takeshi_Okadome"
+        ],
+        "title": "A_Distributed_Inference_System_on_Sensor_Nodes_using_Neighbors&#8217;_Context_Data",
+        "year": "2007",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_International_Workshop_on_Databases_for_Next-Generation_Researchers",
+        "abbrv": "SWOD"
+    },
+    {
+        "author": [
+            "M._Nakamura",
+            "H._Kawashima",
+            "S._Satake",
+            "M._Imai"
+        ],
+        "title": "RSV:_Sensor_Data_Viewer_for_Human-Robot_Interaction",
+        "year": "2007",
+        "page": "pp.25-30",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the_Second_IASTED_International_Conference_Human-Computer_Interaction",
+        "abbrv": ""
+    }
+]

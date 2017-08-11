@@ -1,0 +1,73 @@
+[
+    {
+        "author": [
+            "Masahiko_Taguchi",
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "Synchronized_Behavior_for_Sharing_Physical_World_Information",
+        "year": "2008",
+        "page": "pp.1-6",
+        "no": "",
+        "vol": "",
+        "book": "Automation_Congress",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Towards_anthropomorphized_spaces:_Human_responses_to_anthropomorphization_of_a_space_using_attached_body_parts",
+        "year": "2008",
+        "page": "pp.148-153",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the_17th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Masahiko_Taguchi",
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "The_Effect_of_Simultaneous_Behaviors_for_Sharing_Real_World_Information",
+        "year": "2008",
+        "page": "pp.154-159",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the_17th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Masahiko_Taguchi",
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "Effectiveness_of_Simultaneous_Behavior_by_Interactive_Robot_Authors",
+        "year": "2008",
+        "page": "pp.896-906",
+        "no": "",
+        "vol": "",
+        "book": "The_9th_International_Conference_on_Artificial_Intelligence_and_Soft_Computing",
+        "abbrv": "ICAISC"
+    },
+    {
+        "author": [
+            "Toshiyuki_Shiwa",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "Norihiro_Hagita"
+        ],
+        "title": "How_Quickly_Should_Communication_Robots_Respond_?",
+        "year": "2008",
+        "page": "pp.153-160",
+        "no": "",
+        "vol": "",
+        "book": "ACM/IEEE_3rd_Annual_Conference_on_Human-Robot_Interaction",
+        "abbrv": "HRI"
+    }
+]

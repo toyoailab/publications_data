@@ -1,0 +1,145 @@
+[
+    {
+        "author": [
+            "Antoine_Chaussin",
+            "Hirotaka_Osawa",
+            "Ren_Oomura_and_Michita_Imai"
+        ],
+        "title": "Mundus_Traducere_:_Interpretation_of_Natural_Language_using_a_Semantic_Sensor_Network",
+        "year": "2009",
+        "page": "23-25",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_Workshop_on_Advanced_Robotics"
+    },
+    {
+        "author": [
+            "松田_祐児",
+            "大澤_博隆",
+            "大村_廉",
+            "今井_倫太"
+        ],
+        "title": "SRTを用いた擬人化_ロボットの表出要素の組合せ評価",
+        "year": "2009",
+        "page": "pp.806-817",
+        "no": "No.11",
+        "vol": "Vol.A92-A",
+        "book": "電子情報通信学会論文誌"
+    },
+    {
+        "author": [
+            "石井健太郎",
+            "鳩康彦",
+            "Thomas_Kanold",
+            "今井倫太"
+        ],
+        "title": "自発的に話しかける対話ロボットの話しかけの一手法",
+        "year": "2009",
+        "page": "pp.693-700",
+        "no": "No.5",
+        "vol": "Vol.21_",
+        "book": "知能と情報"
+    },
+    {
+        "author": [
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "Environmental_sensor_bridge_system_for_communication_robots_Authors",
+        "year": "2009",
+        "page": "pp.211-221",
+        "no": "No._3",
+        "vol": "Vol.1",
+        "book": "Journal_of_Ambient_Intelligence_and_Smart_Environments"
+    },
+    {
+        "author": [
+            "Toshiyuki_Shiwa",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro_and",
+            "No.ihiro_Higata"
+        ],
+        "title": "How_quickly_should_a_communication_robot_respond?",
+        "year": "2009",
+        "page": "pp.1415",
+        "no": "No.2",
+        "vol": "Vol.1",
+        "book": "International_Journal_of_Social_Robotics"
+    },
+    {
+        "author": [
+            "納谷_太",
+            "高橋悟史",
+            "宮前雅一",
+            "寺田_努",
+            "野間春生",
+            "鳥山朋二",
+            "小暮_潔",
+            "西尾章治郎",
+            "今井倫太"
+        ],
+        "title": "複数人物の位置追跡のためのZigBeeセンサネットワークの開発",
+        "year": "2009",
+        "page": "pp.55-66",
+        "no": "No.1",
+        "vol": "Vol.14",
+        "book": "日本バーチャルリアリティ学会論文誌"
+    },
+    {
+        "author": [
+            "大澤_博隆",
+            "野田_誠人",
+            "大村_廉",
+            "今井_倫太"
+        ],
+        "title": "擬人化した物体からの情報提示手法のための後付け可能な指示区画検知センサの開発",
+        "year": "2009",
+        "page": "pp.12-23",
+        "no": "No.1",
+        "vol": "Vol.21",
+        "book": "知能と情報（日本知能情報ファジィ学会誌）"
+    },
+    {
+        "author": [
+            "佐竹_聡",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "Seshat:作業で関わった実世界オブジェクトによるコンテンツ検索",
+        "year": "2009",
+        "page": "pp.1",
+        "no": "No.1",
+        "vol": "Vol.11",
+        "book": "ヒューマンインタフェース学会論文誌"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Using_Attachable_Humanoid_Parts_for_Realizing_imaginary_Intention_and_Body_Image",
+        "year": "2009",
+        "page": "pp.1093",
+        "no": "No.1",
+        "vol": "Vol.1",
+        "book": "International_Journal_of_Social_Robotics"
+    },
+    {
+        "author": [
+            "志和敏之",
+            "神田崇行",
+            "今井倫太",
+            "石黒浩",
+            "萩田紀博",
+            "安西祐一郎"
+        ],
+        "title": "対話ロボットの反応時間と反応遅延時における間投詞の効果",
+        "year": "2009",
+        "page": "pp.87-95",
+        "no": "No._1.",
+        "vol": "Vol._27.",
+        "book": "日本ロボット学会誌"
+    }
+]

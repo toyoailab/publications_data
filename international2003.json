@@ -1,0 +1,87 @@
+[
+    {
+        "author": [
+            "Michita_Imai",
+            "Mariko_Narumi"
+        ],
+        "title": "Generating_Common_Quality_of_Sense_by_Directed_Interaction",
+        "year": "2003",
+        "page": "pp.199-204",
+        "no": "",
+        "vol": "",
+        "book": "The_2003_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Satoru_Satake",
+            "Hideyuki_Kawashima",
+            "Michita_Imai"
+        ],
+        "title": "CDBMS:_Database_Management_System_for_A_Communication_Robot",
+        "year": "2003",
+        "page": "pp.205-210",
+        "no": "",
+        "vol": "",
+        "book": "The_2003_IEEE_International_Workshop_on_Robot_and　Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda",
+            "Hiroshi_Ishiguro",
+            "Michita_Imai",
+            "Tetsuo_Ono"
+        ],
+        "title": "Body_Movement_Analysis_of_Human-Robot_Interaction",
+        "year": "2003",
+        "page": "pp.177-182",
+        "no": "",
+        "vol": "",
+        "book": "International_Joint_Conference_on_Artificial_Intelligence",
+        "abbrv": "IJCAI"
+    },
+    {
+        "author": [
+            "Seiji_Miyama",
+            "Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Rescue_Robot_under_Disaster_Situation:_Position_Acquisition_with_Omni-directional_Sensor",
+        "year": "2003",
+        "page": "Vol.4 pp.3132-3137",
+        "no": "",
+        "vol": "",
+        "book": "International_Conference_on_Intelligent_Robots_and　Systems",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Jun_Mukai",
+            "Yuichiro_Anzai",
+            "Michita_Imai"
+        ],
+        "title": "Indefinite_Observation_for_Spontaneous_Trend_Generation",
+        "year": "2003",
+        "page": "pp.221-232",
+        "no": "",
+        "vol": "",
+        "book": "Agent-Based　Technologies　and_Systems",
+        "abbrv": "ATS"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Takayuki_Kanda",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Embodied_Communications_between_Humans_and_Robots_Emerging_from_Entrained_Gestures",
+        "year": "2003",
+        "page": "pp.558-563",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_2003_IEEE_International_Symposium_on_ComputationalIntelligence_in_Robotics_and_Automation",
+        "abbrv": "CIRA"
+    }
+]

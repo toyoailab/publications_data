@@ -1,0 +1,43 @@
+[
+    {
+        "author": [
+            "Satoru_Satake",
+            "Keita_Nakatani",
+            "Kotaro_Hayashi",
+            "Takyuki_Kanda",
+            "Michita_Imai"
+        ],
+        "title": "What_should_we_know_to_develop_an_information_robot?",
+        "year": "2015",
+        "page": "pp.1-23",
+        "no": "",
+        "vol": "",
+        "book": "PeerJ_Comput._Sci"
+    },
+    {
+        "author": [
+            "Mahisorn_Wongphati",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Gestures_for_Manually_Controlling_a_Helping_Hand_Robot",
+        "year": "2015",
+        "page": "pp.1-12",
+        "no": "",
+        "vol": "",
+        "book": "International_Journal_of_Social_Robotics"
+    },
+    {
+        "author": [
+            "Mahisorn_Wongphati",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "User-defined_gestures_for_controlling_primitive_motions_of_an_end_effector",
+        "year": "2015",
+        "page": "pp.225-238",
+        "no": "No.4",
+        "vol": "Vol.29",
+        "book": "Advanced_Robotics"
+    }
+]

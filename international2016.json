@@ -1,0 +1,45 @@
+[
+    {
+        "author": [
+            "Masahiko_Osawa",
+            "Michita_Imai",
+            "Hiroshi_Yamakawa"
+        ],
+        "title": "An Implementation of Working Memory Using Stacked Half Restricted Boltzmann Machine: Toward to Restricted Boltzmann Machine-Based Cognitive Architecture.",
+        "year": "2016",
+        "page": " pp.342-350",
+        "no": "",
+        "vol": "",
+        "book": "The 23rd International Conference on Neural Information Processing",
+        "abbrv": "ICONIP"
+    },
+    {
+        "author": [
+            "Mamoru_Yamanouchi",
+            "Taichi_Sono",
+            "Michita_Imai"
+        ],
+        "title": "The_Use_of_The_BDI_Model_As_Design_Principle_for_A_Migratable_Agent",
+        "year": "2016",
+        "page": " pp.115-122",
+        "no": "",
+        "vol": "",
+        "book": "The_4th_International_Conference_on_Human-Agent_Interaction",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Taichi_Sono",
+            "Komei_Hasegawa",
+            "Kazuhiko_Shinozawa",
+            "Michita_Imai"
+        ],
+        "title": "A_Study_on_Controlling_Method_for_an_Autonomous_Personal_Vehicle_Based_On_User’s_Heart_Rate_Variability",
+        "year": "2016",
+        "page": " pp.1177-1182",
+        "no": "",
+        "vol": "",
+        "book": "the_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    }
+]

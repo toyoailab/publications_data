@@ -1,0 +1,100 @@
+[
+    {
+        "author": [
+            "古山真之",
+            "大村廉",
+            "今井倫太"
+        ],
+        "title": "インタラクティブに音楽を検索·発見できるソフトウェア「音楽夢想」",
+        "year": "2008",
+        "page": "pp.3918-3932",
+        "no": "No.12",
+        "vol": "Vol.49",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "Bin_Guo",
+            "Satoru_Satake",
+            "Michita_Imai"
+        ],
+        "title": "Lowering_the_barriers_to_participation_in_the_human-artifact_interaction_systems",
+        "year": "2008",
+        "page": "pp.469–502",
+        "no": "No.4",
+        "vol": "Vol.2",
+        "book": "International_Journal_of_Semantic_Computing_(IJSC)_Special_Issue_on_Ambient_Semantic_Computing"
+    },
+    {
+        "author": [
+            "Chihiro_Ono",
+            "Yasuhiro_Takishima",
+            "Yoichi_Motomura",
+            "Hideki_Asoh",
+            "Yasuhide_Shinagawa",
+            "Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Context-Aware_Users’_Preference_Models_by_Integrating_Real_and_Supposed_Situation_Data",
+        "year": "2008",
+        "page": "pp.2552-2559",
+        "no": "No.11",
+        "vol": "Vol._E91-D",
+        "book": "IEICE_Transactions_on_Information_and_Systems"
+    },
+    {
+        "author": [
+            "大澤博隆",
+            "大村廉",
+            "今井倫太"
+        ],
+        "title": "直接擬人化手法を用いた機器からの情報提示の評価",
+        "year": "2008",
+        "page": "pp.11-20",
+        "no": "No.3",
+        "vol": "Vol.10",
+        "book": "ヒューマンインタフェース学会論文誌(特集号：オフィス・家庭における次世代インタフェース)"
+    },
+    {
+        "author": [
+            "Bin_Guo",
+            "Satoru_Satake",
+            "Michita_Imai"
+        ],
+        "title": "Home-Explorer:_Ontology-based_Physical_Artifact_Search_and_Hidden_Object_Detection_System",
+        "year": "2008",
+        "page": "pp.813",
+        "no": "No.2",
+        "vol": "Vol.4",
+        "book": "International_Journal_of_Mobile_Information_Systems_(IJMIS)"
+    },
+    {
+        "author": [
+            "杉山治",
+            "神田崇行",
+            "今井倫太",
+            "石黒浩",
+            "萩田紀博",
+            "安西祐一郎"
+        ],
+        "title": "人とコミュニケーション_ロホットの直示的な会話の実現",
+        "year": "2008",
+        "page": "pp. 73-86",
+        "no": "No.1",
+        "vol": "Vol.10",
+        "book": "ヒューマンインタフェース学会論文誌"
+    },
+    {
+        "author": [
+            "鳴海真里子",
+            "梅澤猛",
+            "今井倫太"
+        ],
+        "title": "周辺のセンサデバイスに基づくロボットの演出行動の選択",
+        "year": "2008",
+        "page": "pp.37-50",
+        "no": "No.1",
+        "vol": "Vol.J91-D",
+        "book": "電子情報通信学会論文誌D"
+    }
+]

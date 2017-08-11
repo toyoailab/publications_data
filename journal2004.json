@@ -1,0 +1,30 @@
+[
+    {
+        "author": [
+            "川島_英之",
+            "今井_倫太",
+            "遠山_元道",
+            "安西__祐一郎"
+        ],
+        "title": "センサデータベースシステムKRAFTの設計と実装",
+        "year": "2004",
+        "page": "pp.39-53",
+        "no": "No.14",
+        "vol": "Vol.45",
+        "book": "情報処理学会論文誌:データベース"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda",
+            "Hiroshi_Ishiguro",
+            "Michita_Imai",
+            "Tetsuo_Ono"
+        ],
+        "title": "Development_and_Evaluation_of_Interactive_Humanoid_Robots",
+        "year": "2004",
+        "page": "pp.183950",
+        "no": "No.11",
+        "vol": "Vol.92",
+        "book": "IEEE_Special_Issue_on:_Human_Interactive_Robots_for_Psychological_Enrichment"
+    }
+]

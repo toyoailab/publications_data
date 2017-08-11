@@ -1,0 +1,57 @@
+[
+    {
+        "author": [
+            "Michita_Imai",
+            "Testuo_Ono",
+            "Hiroshi_Ishiguro",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Attention_Expression_Mechanism_for_Utterance_Generation",
+        "year": "2000",
+        "page": "pp.1-6",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_9th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Anthropomorphic_Communication_in_the_Emerging_Relationship_between_Humans_and_Robots",
+        "year": "2000",
+        "page": "pp.334-339",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_9th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai"
+        ],
+        "title": "Reading_a_Robot&#8217;s_Mind:_A_Model_of_Utterance_Understanding_based_on_the_Theory_of_Mind_Mechanism",
+        "year": "2000",
+        "page": "pp.142-148",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_AAAI-2000",
+        "abbrv": "AAAI"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai"
+        ],
+        "title": "Robot_Behavior_Generation_using_an_Autopoietic_System_and_its_Social_Dynamics",
+        "year": "2000",
+        "page": "pp.16-21",
+        "no": "",
+        "vol": "",
+        "book": "The_Fourth_Asian_Fuzzy_Systems_Symposium",
+        "abbrv": "AFSS"
+    }
+]

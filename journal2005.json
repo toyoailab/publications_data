@@ -1,0 +1,76 @@
+[
+    {
+        "author": [
+            "梅澤_猛",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "領域可変型検索手法Baumによるモバイルユーザのための周辺情報提示",
+        "year": "2005",
+        "page": "pp.3008—3015",
+        "no": "No.12",
+        "vol": "Vol.46",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "中村_学",
+            "川島_英之",
+            "佐竹_聡",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "コミュニケーションロボットのためのセンサデータ可視化ソフトウェアRSVの設計と実装",
+        "year": "2005",
+        "page": "pp.89—92",
+        "no": "No.2",
+        "vol": "Vol.4",
+        "book": "日本データベース学会Letters"
+    },
+    {
+        "author": [
+            "神田_崇行",
+            "鎌島_正幸",
+            "今井_倫太",
+            "小野_哲雄",
+            "坂本_大介",
+            "石黒_浩",
+            "安西_祐一郎"
+        ],
+        "title": "人間型対話ロボットのための協調的身体動作の利用",
+        "year": "2005",
+        "page": "pp.132—143",
+        "no": "No.7",
+        "vol": "Vol.23",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "向井_淳",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "観測指向モデルによるロボットの自発的な行動基準の生成",
+        "year": "2005",
+        "page": "pp.314-324",
+        "no": "No.3",
+        "vol": "Vol.17",
+        "book": "知能と情報(日本知能情報ファジイ学会誌)"
+    },
+    {
+        "author": [
+            "Daisuke_Sakamoto",
+            "Takayuki_Kanda",
+            "Tetsuo_Ono",
+            "Masayuki_Kamashima",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Cooperative_embodied_communication_emerged_by_interactive_humanoid_robots",
+        "year": "2005",
+        "page": "pp.247-265",
+        "no": "",
+        "vol": "Vol.62_issue-2",
+        "book": "International_Journal_of_Human-Computer_Studies"
+    }
+]

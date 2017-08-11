@@ -1,0 +1,88 @@
+[
+    {
+        "author": [
+            "大澤博隆",
+            "飛田国星",
+            "桑山裕基",
+            "今井倫太",
+            "山田誠二"
+        ],
+        "title": "二軸の振る舞いによる人間-空箱間の物集めタスクの実行",
+        "year": "2013",
+        "page": "pp. 39–50",
+        "no": "no._1",
+        "vol": "vol._15",
+        "book": "ヒューマンインタフェース学会論文誌"
+    },
+    {
+        "author": [
+            "Masato_SAKATA",
+            "Zeynep_Yucel",
+            "Kazuhiko_Shinozawa",
+            "",
+            "No.ihiro_Hagita",
+            "Michita_Imai",
+            "Michiko_FURUTANI",
+            "Rumiko_Matsuoka"
+        ],
+        "title": "An_Inference_Engine_for_Estimating_Outside_States_of_Clinical_Test_Items”",
+        "year": "2013",
+        "page": " 13:1:21",
+        "no": "No.3",
+        "vol": "Vol.4",
+        "book": "ACM_Transaction_on_Management_Information_System_(TMIS)"
+    },
+    {
+        "author": [
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "Collaborative_Task_Casting:_A_Task_Selection_Technique_for_Multi-Task_Autonomous_Robots",
+        "year": "2013",
+        "page": "pp.1575",
+        "no": "No.2",
+        "vol": "Vol.6",
+        "book": "'The_SICE_Journal_of_Control_Measurement_and_System_Integration_(SICE_JCMSI)'"
+    },
+    {
+        "author": [
+            "大澤_博隆",
+            "今井_倫太"
+        ],
+        "title": "エージェントのインタラクション戦略探索のための没入型発見法",
+        "year": "2013",
+        "page": "pp.1609",
+        "no": "No.2",
+        "vol": "Vol.28",
+        "book": "人工知能学会論文誌"
+    },
+    {
+        "author": [
+            "石井_健太郎",
+            "谷口_祐司",
+            "大澤_博隆",
+            "中臺_一博",
+            "今井_倫太"
+        ],
+        "title": "投影型遠隔コミュニケーションにおけるユーザとアバタの視点の一致",
+        "year": "2013",
+        "page": "pp.141321",
+        "no": "No.4",
+        "vol": "Vol.54",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "Masa_Ogata",
+            "Yuta_Sugiura",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "PYGMY:_A_RING-SHAPED_ROBOTIC_DEVICE_FOR_STORYTELLING",
+        "year": "2013",
+        "page": " pp.4619-4629",
+        "no": "No.12",
+        "vol": "Vol.9",
+        "book": "International_Journal_of_Innovative_Computing_Information_and_Control"
+    }
+]

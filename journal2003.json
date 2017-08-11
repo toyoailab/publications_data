@@ -1,0 +1,84 @@
+[
+    {
+        "author": [
+            "神田_崇行",
+            "今井_倫太",
+            "小野_哲雄",
+            "石黒_浩"
+        ],
+        "title": "人-ロボット相互作用における身体動作の数値解析",
+        "year": "2003",
+        "page": "pp.2699-2709",
+        "no": "No.11",
+        "vol": "Vol.44",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Kazuo_Hiraki",
+            "Tsutomu_Miyasato",
+            "Ryouhei_Nakatsu、Yuichiro_Anzai"
+        ],
+        "title": "Interaction_with_Robots:_Physical_Constraints_on_the_Interpretation__of_Demonstrative_Pronouns",
+        "year": "2003",
+        "page": "pp.367-384",
+        "no": "No.2",
+        "vol": "Vol.16",
+        "book": "International_Journal_of_Human_Computer_Interaction"
+    },
+    {
+        "author": [
+            "川島_英之",
+            "遠山_元道",
+            "今井_倫太",
+            "安西__祐一郎"
+        ],
+        "title": "リモートメモリを用いたセンサデータストリームの永続化",
+        "year": "2003",
+        "page": "pp.989",
+        "no": "No.SIG12(TOD19)",
+        "vol": "Vol.44",
+        "book": "情報処理学会論文誌：データベース"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Physical_Relation_and_Expression:_Joint_Attention_for_Human-Robot__Interaction",
+        "year": "2003",
+        "page": "pp.636-643",
+        "no": "No.4",
+        "vol": "Vol.50",
+        "book": "IEEE_transaction_on_Industrial_Electronics"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Robovie:_Communication_Technologies_for_a_Social_Robot",
+        "year": "2003",
+        "page": "pp.73-77",
+        "no": "",
+        "vol": "Vol.6",
+        "book": "Journal_of_Artificial_Life_and_Robotics"
+    },
+    {
+        "author": [
+            "Hiroshi_Isiguro",
+            "_Tetsuo_Ono",
+            "Michita_Imai",
+            "Takayuki_Kanda"
+        ],
+        "title": "Development_of_an_interactive_humanoid_robot_Robovie_-An_interdisciplinary_approach",
+        "year": "2003",
+        "page": "pp.1791",
+        "no": "",
+        "vol": "",
+        "book": "Robotics_Research"
+    }
+]

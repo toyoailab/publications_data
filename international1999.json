@@ -1,0 +1,85 @@
+[
+    {
+        "author": [
+            "Michita_Imai",
+            "Testuo_Ono",
+            "Tameyuki_Etani"
+        ],
+        "title": "Agent_Migration:_Communications_between_a_Human_and_Robot",
+        "year": "1999",
+        "page": "pp.391",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_International_Conference_on_System,_Man,_and_Cybernetics",
+        "abbrv": "SMC"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Testuo_Ono",
+            "Tameyuki_Etani"
+        ],
+        "title": "Attractive_Interface_for_Human_Robot_Interaction",
+        "year": "1999",
+        "page": "pp.124-129",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_8th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai"
+        ],
+        "title": "Robot-Mediated_Communication:_Robots_Promoting_Matchmaking_between_Humans",
+        "year": "1999",
+        "page": "pp.237&#8211;241",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_8th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Kazuo_Hiraki",
+            "Tsutomu_Miyasato"
+        ],
+        "title": "Physical_Constraints_on_Human_Roboto_Interaction",
+        "year": "1999",
+        "page": "Vol.2 pp.1124-1130",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_16th_International_Joint_Conference_on_Artificial_Intelligence",
+        "abbrv": "IJCAI"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Tameyuki_Etani"
+        ],
+        "title": "Robots_as_Human_Peers:_Cognitive_Conditions_of_Human-Robot_Interaction",
+        "year": "1999",
+        "page": "pp.693-696",
+        "no": "",
+        "vol": "",
+        "book": "The_Second_International_Conference_on_Cognitive_Science",
+        "abbrv": "ICCS"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Tameyuki_Etani"
+        ],
+        "title": "Sociality_of_Robots_in_Symbiotic_Relations_with_Humans",
+        "year": "1999",
+        "page": "pp.16-19",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the_Fourth_International_Symposium_on_Artificial_Life_and_Robotics",
+        "abbrv": "AROB"
+    }
+]

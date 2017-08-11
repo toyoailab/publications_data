@@ -1,0 +1,201 @@
+[
+    {
+        "author": [
+            "Antoine_Chaussin",
+            "Hirotaka_Ohsawa",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Mundus_Traducere_:_Interpretation_of_Natural_Language_using_a_Semantic_Sensor_Network",
+        "year": "2009",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "2009_IEEE_Workshop_on_Advanced_Robotics_and_its_Social_Impacts",
+        "abbrv": "ARSO"
+    },
+    {
+        "author": [
+            "Yasuhiko_Hato",
+            "Thomas_Kanold",
+            "Kentaro_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "Showing_Awareness_of_Humans&#8217;_Context_to_Involve_Human_in_Interaction",
+        "year": "2009",
+        "page": "pp.663-668",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the_18th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Ren_Ohmura，Naoyuki_Hashida，Michita_Imai"
+        ],
+        "title": "Preliminary_Evaluation_of_Personal_Adaptation_Techniques_in_Accelerometer-Based_Activity_Recognition",
+        "year": "2009",
+        "page": "pp.29-36",
+        "no": "",
+        "vol": "",
+        "book": "In_Advances_in_Wearable_Computing_2009_(adjunct_Proc._of_the_13th_Intl._Symposium_on_Wearable_Computers(ISWC&#8217;09))",
+        "abbrv": "ISCW"
+    },
+    {
+        "author": [
+            "Kentaro_Ishii",
+            "Shengdong_Zhao",
+            "Masahiko_Inami",
+            "Takeo_Igarashi",
+            "Michita_Imai"
+        ],
+        "title": "Designing_Laser_Gesture_Interface_for_Robot_Contro",
+        "year": "2009",
+        "page": "pp.479-492",
+        "no": "",
+        "vol": "",
+        "book": "the_12th_IFIP_Conference_on_Human-Computer_Interaction",
+        "abbrv": "INTERACT"
+    },
+    {
+        "author": [
+            "Toshihiro_Osumi",
+            "Kenta_Fujimoto",
+            "Yuki_Kuwayama",
+            "Masato_Noda",
+            "Hirotaka_Osawa",
+            "Michita_Imai",
+            "Kazuhiko_Shinozawa"
+        ],
+        "title": "BlogRobot:_Mobile_Terminal_for_Blog_Browse_Using_Physical_Representation",
+        "year": "2009",
+        "page": "Vol.44 pp.96-101",
+        "no": "",
+        "vol": "",
+        "book": "Progress_in_Robotics",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Kentaro_Ishii",
+            "Toshihiro_Osumi",
+            "Ren_Ohmura_and_Michita_Imai"
+        ],
+        "title": "Anthropomorphization_of_a_Space_with_Implemented_Human-like_Features",
+        "year": "2009",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "ACM_SIGGRAPH_2009_Full_Conferece_DVD-ROM",
+        "abbrv": "SIGGRAPH"
+    },
+    {
+        "author": [
+            "Hitoshi_Kawasaki",
+            "Ren_Ohmura",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "A_model_for_addition_of_user_information_to_sensor_data_obtained_from_living_environment",
+        "year": "2009",
+        "page": "pp.9-17",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the_3rd_ACM_International_Workshop_on_Context-Awareness_for_Self-Managing_Systems_2009",
+        "abbrv": "CASEMANS"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Yuji_Matsuda",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Variable_Body_Image_&#8212;_Evaluation_Framework_of_Robot&#8217;s_Appearance_using_Movable_Human-like_Parts",
+        "year": "2009",
+        "page": "pp.33-40",
+        "no": "",
+        "vol": "",
+        "book": "AAAI_2009_Spring_Symposia_for_Experimental_Design_for_Real-World_Systems",
+        "abbrv": "AAAI"
+    },
+    {
+        "author": [
+            "Masato_Noda",
+            "Toshihiro_Osumi",
+            "Kenta_Fujimoto",
+            "Hirotaka_Osawa",
+            "Michita_Imai",
+            "Kazuhiko_Shinozawa"
+        ],
+        "title": "Blog_Robot:_A_new_style_for_accessing_location-based_contents",
+        "year": "2009",
+        "page": "pp.203",
+        "no": "",
+        "vol": "",
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
+        "abbrv": "HRI"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Anthropomorphization_Method_using_Attachable_Humanoid_Parts",
+        "year": "2009",
+        "page": "Vol.4 207-208",
+        "no": "",
+        "vol": "",
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
+        "abbrv": "HRI"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Self_introducing_poster_using_attachable_humanoid_parts",
+        "year": "2009",
+        "page": "Vol.4 p.327-328",
+        "no": "",
+        "vol": "",
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
+        "abbrv": "HRI"
+    },
+    {
+        "author": [
+            "Yusuke_Okuno",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "Norihiro_Hagita"
+        ],
+        "title": "Providing_Route_Directions:_Design_of_Robot’s_Utterance,_Gesture,_and_Timing",
+        "year": "2009",
+        "page": "pp.53-60",
+        "no": "",
+        "vol": "",
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
+        "abbrv": "HRI"
+    },
+    {
+        "author": [
+            "Satoru_Satake",
+            "Takayuki_Kanda",
+            "Dylan_F._Glas",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "Norihiro_Hagita"
+        ],
+        "title": "How_to_Approach_Humans?_–Strategies_for_Social_Robots_to_Initiate_Interaction",
+        "year": "2009",
+        "page": "pp.109-116",
+        "no": "",
+        "vol": "",
+        "book": "4th_ACM_International_Conference_on_Human_Robot_Interaction",
+        "abbrv": "HRI"
+    }
+]

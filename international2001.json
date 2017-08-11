@@ -1,0 +1,76 @@
+[
+    {
+        "author": [
+            "Hiroshi_Ishiguro",
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Takayuki_Kanda"
+        ],
+        "title": "&#8220;Development_of_an_interactive_humanoid_robot“Robovie”_?_An_interdisciplinary_research_approach_between_cognitive_science_and_robotics",
+        "year": "2001",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Proc._Intl._Symposium_Robotics_Research",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Testuo_Ono",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Physical_Relation_and_Expression:_Joint_Attention_for_Human-Robot_Interaction",
+        "year": "2001",
+        "page": "pp.512-517",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_10th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "A_Model_of_Embodied_Communications_with_Gestures_between_Humans_and_Robots",
+        "year": "2001",
+        "page": "pp.732-737",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_Twenty-third_Annual_Meeting_of_the_Cognitive_Science_Society",
+        "abbrv": "CogSci"
+    },
+    {
+        "author": [
+            "Hiroshi_Ishiguro",
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Takeshi_Maeda",
+            "Takayuki_Kanda",
+            "Ryohei_Nakatsu"
+        ],
+        "title": "Robovie:_A_robot_generates_episode_chains_in_our_daily_life",
+        "year": "2001",
+        "page": "pp.1361-1365",
+        "no": "",
+        "vol": "",
+        "book": "Proc._Intl._Symposium_Robotics",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Testuo_Ono",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Robovie:_Communication_Technologies_for_a_Social_Robot",
+        "year": "2001",
+        "page": "pp.50-53",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_The_Sixth_Symp._on_Artificial_Life_and_Robotics",
+        "abbrv": "AROB"
+    }
+]

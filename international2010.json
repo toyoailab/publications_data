@@ -1,0 +1,139 @@
+[
+    {
+        "author": [
+            "Ryota_Fujimura",
+            "Kazuhiro_Nakadai",
+            "Michita_Imai",
+            "Ren_Ohmura"
+        ],
+        "title": "PROT_–_An_Embodied_Agent_for_Intelligible_and_User-Friendly_Human-Robot_Interaction",
+        "year": "2010",
+        "page": "pp.3860-3867",
+        "no": "",
+        "vol": "",
+        "book": "The_2010_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Ren_Ohmura",
+            "Moe_Sameshima",
+            "Michita_Imai"
+        ],
+        "title": "Exploring_Design_of_Passing-through_Behavior_for_Daily_Coexisting_Humanoid_Robots",
+        "year": "2010",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "2010_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Ren_Ohmura",
+            "Naoyuki_Hashida",
+            "Michita_Imai"
+        ],
+        "title": "Exploiting_Auto-Segmentation_Technique_for_Semi-supervised_Learning_in_Accelerometer-based_Activity_Recognition_Context_awareness_and_information_processing_in_opportunistic_ubiquitous_systems",
+        "year": "2010",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "UbiComp2010_Workshop_2010",
+        "abbrv": "UbiComp"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Jarrod_Orszulak",
+            "Kathryn_M._Godfrey",
+            "Michita_Imai",
+            "Joseph_F._Coughlin"
+        ],
+        "title": "Improving_Voice_Interaction_for_Older_People_Using_an_Attachable_Gesture_Robot",
+        "year": "2010",
+        "page": "pp.199-204",
+        "no": "",
+        "vol": "",
+        "book": "19th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Yuji_Matsuda",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Extended_Imaginary_Body:_How_Users_Percept_The_Body_of_An_Agent?",
+        "year": "2010",
+        "page": "Vol.14 pp.24-29",
+        "no": "",
+        "vol": "",
+        "book": "Human_Agent_Interaction:_Design_Theory_for_Interactive_Agents_and_Robots_on_Proceedings_of_The_14th_World_Multi-Conference_on_Systemics,_Cybernetics_and_Informatics",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Masto_Noda",
+            "Kenta_Fujimoto",
+            "Toshihiro_Ohsumi",
+            "Yuki_Kuwayama",
+            "Hirotaka_Osawa"
+        ],
+        "title": "A_Portable_robot_to_Share_Real_World_Experiences",
+        "year": "2010",
+        "page": "Vol.:14 pp.1-6",
+        "no": "",
+        "vol": "",
+        "book": "Human_Agent_Interaction:_Design_Theory_for_Interactive_Agents_and_Robots_on_Proceedings_of_The_14th_World_Multi-Conference_on_Systemics,_Cybernetics_and_Informatics",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Yuji_Matsuda",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Toward_the_Body_Image_Horizon:_How_Do_Users_Recognize_the_Body_of_a_Robot? late_breaking_reports",
+        "year": "2010",
+        "page": "Vol. 5 pp.179-180",
+        "no": "",
+        "vol": "",
+        "book": "5th_ACM_International_Conference_on_Human_Robot_Interaction",
+        "abbrv": "HRI"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Yuji_Matsuda",
+            "Ren_Ohmura",
+            "Michita_Imai"
+        ],
+        "title": "Evaluation_Framework_of_Human-like_Robot’s_Appearance_using_Movable_Human-like_Parts Workshop_for_Interaction_Science_Perspective_on_HR",
+        "year": "2010",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Designing_Robot_Morphology_in_5th_ACM_International_Conference_on_Human_Robot_Interaction",
+        "abbrv": "HRI"
+    },
+    {
+        "author": [
+            "Yasuhiko_Hato",
+            "Satoru_Satake",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "and_Norihiro_Hagita"
+        ],
+        "title": "Pointing_to_Space:_Modeling_of_Deictic_Interaction_Referring_to_Regions_Authors",
+        "year": "2010",
+        "page": "pp.301-308",
+        "no": "",
+        "vol": "",
+        "book": "5th_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
+        "abbrv": "HRI"
+    }
+]

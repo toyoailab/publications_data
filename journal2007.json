@@ -1,0 +1,60 @@
+[
+    {
+        "author": [
+            "佐竹聡",
+            "川島英之",
+            "今井倫太",
+            "安西_祐一郎"
+        ],
+        "title": "Brownie:_カメラ上に指定された過去のランドマーク情報に基づく実世界探し物検索システム",
+        "year": "2007",
+        "page": "pp.556-569",
+        "no": "No.5",
+        "vol": "Vol.19",
+        "book": "知能と情報(日本知能情報ファジィ学会誌)"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Anthropomorphization_Framework_for_Human-Object_Communication",
+        "year": "2007",
+        "page": "pp.100714",
+        "no": "No.8",
+        "vol": "Vol.11",
+        "book": "Journal_of_Advanced_Computational_Intelligence_and_Intelligent_Informatics_(JACIII)"
+    },
+    {
+        "author": [
+            "広瀬健志郎",
+            "川島英之",
+            "佐竹_聡",
+            "今井倫太"
+        ],
+        "title": "異種ロボット間でのジェスチャ情報の共有化",
+        "year": "2007",
+        "page": "pp.1258",
+        "no": "No.1",
+        "vol": "Vol.6",
+        "book": "日本データベース学会Letters"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda",
+            "Masayuki_Kamasima",
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Daisuke_Sakamoto",
+            "Hiroshi_Ishiguro",
+            "Yuichiro_Anzai"
+        ],
+        "title": "A_humanoid_robot_that_pretends_to_listen_to_route_guidance_from_a_human",
+        "year": "2007",
+        "page": "pp. 870",
+        "no": "No.1",
+        "vol": "Vol._22",
+        "book": "Autonomous_Robots"
+    }
+]

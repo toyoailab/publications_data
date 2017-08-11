@@ -1,0 +1,71 @@
+[
+    {
+        "author": [
+            "Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Maintainance_and_Drift_of_Attention_in_Human-Robot_Communication",
+        "year": "2005",
+        "page": "pp.15-22",
+        "no": "",
+        "vol": "",
+        "book": "The_1st_International_Workshop_on_Muli-Agent_Robotic_System",
+        "abbrv": "MARS"
+    },
+    {
+        "author": [
+            "Osamu_Sugiyama",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "Norhihiro_Hagita"
+        ],
+        "title": "Three-Layered_Draw-Attention_Model_for_Humanoid_Robots_with_Gestures_and_Verbal_Cues",
+        "year": "2005",
+        "page": "pp.2140-2145",
+        "no": "",
+        "vol": "",
+        "book": "IEEE/RSJ_International_Conference_on_Intelligent_Robots_and　Systems",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Hideyuki_Kawashima、Yoshihisa_Honda"
+        ],
+        "title": "Generating_Behavioral_Protocol_for_Human-Robot_Physical-Contact_Interaction",
+        "year": "2005",
+        "page": "pp.229-234",
+        "no": "",
+        "vol": "",
+        "book": "The_2005_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Hirotaka_Osawa",
+            "Mariko_Narumi"
+        ],
+        "title": "Designing_Human-Robot_Interaction_via_Physical_World_Objects",
+        "year": "2005",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_Workshop_on_Advanced_Robotics_and_Its_Social_Impacts",
+        "abbrv": "ASRO"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Mariko_Narumi"
+        ],
+        "title": "Immersion_in_Interaction_Based_on_Physical_World_Object",
+        "year": "2005",
+        "page": "pp.523—528",
+        "no": "",
+        "vol": "",
+        "book": "The_2005_International_Conference_on_Active_Medial_Technology",
+        "abbrv": "AMT"
+    }
+]

@@ -1,0 +1,29 @@
+[
+    {
+        "author": [
+            "Michita_Imai",
+            "Tsutomu_Miyasato"
+        ],
+        "title": "A_Study_of_Emergent_Computation_of_Life-Like_Behavior_by_Indefinite_Observation",
+        "year": "1998",
+        "page": "pp.370-385",
+        "no": "",
+        "vol": "",
+        "book": "Lecture_Notes_in_Computer_Science_1554",
+        "abbrv": "AMCP"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Kazuo_Hiraki",
+            "Tsutomu_Miyasato"
+        ],
+        "title": "Robot_Navigation_with_Demonstrative_Pronouns",
+        "year": "1998",
+        "page": " pp.256-261",
+        "no": "",
+        "vol": "Vol.1",
+        "book": "Proceedings_of_7th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    }
+]

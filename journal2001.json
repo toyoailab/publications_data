@@ -1,0 +1,45 @@
+[
+    {
+        "author": [
+            "Hiroshi_Ishiguro",
+            "Tetsuo_Ono",
+            "Michita_Imai",
+            "Takayuki_Kanda"
+        ],
+        "title": "Robovie:_an_Interactive_humanoid_robot",
+        "year": "2001",
+        "page": "pp.498-503",
+        "no": "No.6",
+        "vol": "Vol._28",
+        "book": "Industrial_Robotics:_An_International_Journal"
+    },
+    {
+        "author": [
+            "今井倫太",
+            "小野哲雄",
+            "石黒浩",
+            "中津良平",
+            "安西祐一郎"
+        ],
+        "title": "ロボットからの発話：自発性発話生成のための注意の表出機構の実現",
+        "year": "2001",
+        "page": "pp.2618-2629",
+        "no": "No.11",
+        "vol": "Vol.42",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "小野哲雄",
+            "今井倫太",
+            "石黒浩",
+            "中津良平"
+        ],
+        "title": "身体表現を用いた人とロボットの共創対話",
+        "year": "2001",
+        "page": "pp.134858",
+        "no": "No.6",
+        "vol": "Vol.42",
+        "book": "情報処理学会論文誌"
+    }
+]

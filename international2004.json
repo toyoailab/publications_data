@@ -1,0 +1,145 @@
+[
+    {
+        "author": [
+            "Masayuki_Kamashima",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Daisuke_Sakamoto",
+            "Hiroshi_Ishiguro",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Embodied_Cooperative_Behaviors_by_an_Autonomous_Humanoid_Robot",
+        "year": "2004",
+        "page": "pp.2506-2512",
+        "no": "",
+        "vol": "",
+        "book": "IEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Akiyoshi_Sahara",
+            "Michita_Imai",
+            "Yuidhiro_Anzai"
+        ],
+        "title": "CAHRA:_Collision_Avoidance_System_for_Humanoid_Robot_Arms_with_Potential_Field",
+        "year": "2004",
+        "page": "pp.2889-2895",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_International_Conference_on_Systems,_Man,_and_Cybernetics",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Kenshiro_Hirose",
+            "Hideyuki_Kawashima",
+            "Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Development_of_communication_contents_description_language",
+        "year": "2004",
+        "page": "pp.2896-2900",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_International_Conference_on_Systems,_Man,_and_Cybernetics",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Mariko_Narumi"
+        ],
+        "title": "Robot_Behavior_for_encouraging_immersion_in_interaction",
+        "year": "2004",
+        "page": "pp.591-598",
+        "no": "",
+        "vol": "",
+        "book": "Complex_Systems_Intelligence_and_Modern_Technological_Applications",
+        "abbrv": "CSIMTA"
+    },
+    {
+        "author": [
+            "Yutaka_Hirota",
+            "Michita_Imai"
+        ],
+        "title": "Sensor_Based_Utterance_Interpretation_System_SAR_for_Communication_Robot",
+        "year": "2004",
+        "page": "pp.425-430",
+        "no": "",
+        "vol": "",
+        "book": "The_2004_IEEE_International_Workshop_on_Robot_and　Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Daisuke_Sakamoto",
+            "Takayuki_Kanda",
+            "Tetsuo_Ono",
+            "Masayuki_Kamashima",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro"
+        ],
+        "title": "Cooperative_embodied_communication_emerged_by_interactive_humanoid_robots",
+        "year": "2004",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The_2004_IEEE_International_Workshop_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Mariko_Narumi",
+            "Michita_Imai"
+        ],
+        "title": "Human-Centric_Approach_for_Human-Robot_Interaction",
+        "year": "2004",
+        "page": "pp.993-994",
+        "no": "",
+        "vol": "",
+        "book": "The_8th_Pacific_Rim_International_Conference_on_Artificial　Intelligence",
+        "abbrv": "PRICAI"
+    },
+    {
+        "author": [
+            "Kentarou_Ishii",
+            "Michita_Imai"
+        ],
+        "title": "COSPI:_Contextual_Sensors_for_Human-Robot_Interaction",
+        "year": "2004",
+        "page": "pp.136-141",
+        "no": "",
+        "vol": "",
+        "book": "The_10th_IASTED_International_Conference_on_Robotics　and_Applications",
+        "abbrv": "RA"
+    },
+    {
+        "author": [
+            "Satoru_Satake",
+            "Hideyuki_Kawashima",
+            "Michita_Imai"
+        ],
+        "title": "LACOS:_Context_Management_System_for_a_Sensor-Robot_Network",
+        "year": "2004",
+        "page": "pp.160-165",
+        "no": "",
+        "vol": "",
+        "book": "The_10th_IASTED_International_Conference_on_Robotics　and_Applications",
+        "abbrv": "RA"
+    },
+    {
+        "author": [
+            "Takaki_Matsushita",
+            "Michita_Imai"
+        ],
+        "title": "Disaster_View:_Visualization_System_of_Disaster_Area_by_3D-CG",
+        "year": "2004",
+        "page": "pp.89-94",
+        "no": "",
+        "vol": "",
+        "book": "The_10th_IASTED_International_Conference_on_Robotics　and_Applications",
+        "abbrv": "RA"
+    }
+]

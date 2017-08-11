@@ -1,0 +1,46 @@
+[
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Soichiro_Kanbayashi",
+            "Michita_Imai",
+            "Seiji_Yamada"
+        ],
+        "title": "Robot_in_An_Empty_Space:_How_to_Create_Social_Presence_of_The_Robot_without_Real-world_Body",
+        "year": "2011",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "International_Conference_on_Social_Robotics",
+        "abbrv": "ICSR"
+    },
+    {
+        "author": [
+            "Mahisorn_Wongphati",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "3D_Low-Profile_Evaluation_System_(LES)_an_Unobtrusive_Measurement_Tool_for_HRI",
+        "year": "2011",
+        "page": "Vol.20 pp.162-167",
+        "no": "",
+        "vol": "",
+        "book": "20th_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Thibault_Voisin",
+            "Hirotaka_Osawa",
+            "Seiji_Yamada",
+            "Michita_Imai"
+        ],
+        "title": "Between_Real-World_and_Virtual_Agents:_he_Disembodied_Robot",
+        "year": "2011",
+        "page": "pp.281-282",
+        "no": "",
+        "vol": "",
+        "book": "HRI2011_poster",
+        "abbrv": "HRI"
+    }
+]

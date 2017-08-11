@@ -1,0 +1,167 @@
+[
+    {
+        "author": [
+            "Osawa",
+            "Hirotaka_Voisin",
+            "Thibault_Imai",
+            "Michita"
+        ],
+        "title": "Partially_Disembodied_Robot_:_Social_Interactions_with_a_Robot&#8217;s_Virtual_Body",
+        "year": "2012",
+        "page": "p. 438-447",
+        "no": "",
+        "vol": "",
+        "book": "International_Conference_on_Social_Robotics",
+        "abbrv": "ICSR"
+    },
+    {
+        "author": [
+            "Masa_Ogata",
+            "Yuta_Sugiura",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "iRing:_Intelligent_Ring_Using_Infrared_Reflection",
+        "year": "2012",
+        "page": "p. 131-136",
+        "no": "",
+        "vol": "",
+        "book": "25th_ACM_Symposium_on_User_Interface_Software_and_Technology",
+        "abbrv": "UIST"
+    },
+    {
+        "author": [
+            "Mahisorn_Wongphati",
+            "Yushi_Matsuda",
+            "Hirokata_Osawa_and_Michita_Imai"
+        ],
+        "title": "Where_do_you_want_to_use_a_robotic_arm?_And_what_do_you_want_from_the_robot?",
+        "year": "2012",
+        "page": "p. 322-327",
+        "no": "",
+        "vol": "",
+        "book": "The_21st_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Osawa",
+            "Hirotaka_Tobita",
+            "Kunitoshi_Kuwayama",
+            "Yuki_Imai",
+            "Michita_Yamada",
+            "Seiji"
+        ],
+        "title": "Behavioral_Turing_Test_using_Two-axis_Actuators",
+        "year": "2012",
+        "page": "p. 328-333",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Masa_Ogata",
+            "Yuta_Sugiura",
+            "Hitoraka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Pygmy:_A_ring-shaped_robotic_device_that_promotes_the_presence_of_an_agent_on_human_hand",
+        "year": "2012",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The_10th_Asia_Pacific_Conference_on_Computer_Human_Interaction",
+        "abbrv": "APCHI"
+    },
+    {
+        "author": [
+            "Mahisorn_Wongphati",
+            "Yusuke_Kanai",
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Give_Me_a_Hand_&#8211;_How_Users_Ask_a_Robotic_Arm_for_Help_with_Gestures",
+        "year": "2012",
+        "page": "p. 64-68",
+        "no": "",
+        "vol": "",
+        "book": "The_2nd_IEEE_International_Conference_on_CYBER_TECHNOLOGY_IN_AUTOMATION_CONTROL,_and_INTELLIGENT SYSTEMS",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Tadakazu_Kashiwabara",
+            "Hirotaka_Osawa",
+            "Kazuhiko_Shinozawa",
+            "Michita_Imai"
+        ],
+        "title": "TEROOS:_A_Wearable_Avatar_to_Enhance_Joint_Activities",
+        "year": "2012",
+        "page": "p. 2001-2004",
+        "no": "",
+        "vol": "",
+        "book": "In_Proceedings_of_the_30th_International_Conference_on_Human_Factors_in_Computing_Systems",
+        "abbrv": "CHI"
+    },
+    {
+        "author": [
+            "Tadakazu_Kashiwabara",
+            "Hirotaka_Osawa",
+            "Kazuhiko_Shinozawa",
+            "Michita_Imai"
+        ],
+        "title": "TEROOS:_A_Wearable_Avatar_toEnhance_Joint_Activities_(VideoPreview)",
+        "year": "2012",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "In_Proceedings_of_the_30th_International_Conference_on_Human_Factors_in_Computing_Systems",
+        "abbrv": "CHI"
+    },
+    {
+        "author": [
+            "Masayasu_Ogata",
+            "Yuta_Sugiura",
+            "Hitoraka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Pygmy:_A_Ring-like_Robot_that_Animates_Human_Hand",
+        "year": "2012",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The_ACM_SIGCHI_Conference_on_Human_Factors_in_Computing_Systems",
+        "abbrv": "CHI"
+    },
+    {
+        "author": [
+            "Takahiro_Matsumoto",
+            "Satoru_Satake",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Norihiro_Hagita"
+        ],
+        "title": "Do_you_remember_that_shop?_&#8211;_Computational_model_of_spatial_memory_for_shopping_companion_robots",
+        "year": "2012",
+        "page": "pp.447-454",
+        "no": "",
+        "vol": "",
+        "book": "ACM/IEE_HRI2012",
+        "abbrv": "HRI"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Possessed_Robot:_How_to_Find_Original_Nonverbal_Communcation_Style_in_Human-robot_Interaction",
+        "year": "2012",
+        "page": "pp.632-641",
+        "no": "",
+        "vol": "",
+        "book": "4th_International_Conference_on_Agents_and_Artificial_Intelligence",
+        "abbrv": "ICAART"
+    }
+]

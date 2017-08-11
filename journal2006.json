@@ -1,0 +1,90 @@
+[
+    {
+        "author": [
+            "広田_裕",
+            "川島_英之",
+            "佐竹_聡",
+            "梅沢_猛",
+            "今井_倫太"
+        ],
+        "title": "セマンティック・センサネットワークの実現に向けた実世界指向メタデータ管理システムMeTの設計と実装",
+        "year": "2006",
+        "page": "pp.1090—1103",
+        "no": "No.12",
+        "vol": "Vol.89-A",
+        "book": "信学論A"
+    },
+    {
+        "author": [
+            "Osamu_Sugiyama",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "",
+            "No.ihiro_Hagita",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Humanlike_conversation_with_gestures_and_verbal_cues_based_on_a_three-layer_attention-drawing_model",
+        "year": "2006",
+        "page": "pp.379-402",
+        "no": "",
+        "vol": "",
+        "book": "connection_science"
+    },
+    {
+        "author": [
+            "杉山治",
+            "神田祟行",
+            "今井倫太",
+            "石黒浩",
+            "萩田紀博",
+            "安西祐一郎"
+        ],
+        "title": "コミュニケーションロボットのための指さしと指示語を用いた3段階注意誘導モデル",
+        "year": "2006",
+        "page": "pp.964—975",
+        "no": "No.8",
+        "vol": "Vol.24",
+        "book": "日本ロボット学会誌"
+    },
+    {
+        "author": [
+            "梅沢_猛",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "Baumを用いたモバイルユーザ向け周辺情報提示アプリケーション",
+        "year": "2006",
+        "page": "pp.2117—2124",
+        "no": "No.7",
+        "vol": "Vol.47",
+        "book": "情報処理学会論文誌"
+    },
+    {
+        "author": [
+            "中村_学",
+            "川島_英之",
+            "佐竹_聡",
+            "今井_倫太",
+            "安西_祐一郎"
+        ],
+        "title": "RSV:コミュニケーションロボットのためのセンサデータ解析支援システム",
+        "year": "2006",
+        "page": "pp.105—120",
+        "no": "No.SIG_8",
+        "vol": "Vol.47",
+        "book": "情報処理学会論文誌：データベース"
+    },
+    {
+        "author": [
+            "今井_倫太",
+            "鳴海_真里子"
+        ],
+        "title": "人間の五感を利用したロボットとのコミュニケーションへの没入の実現",
+        "year": "2006",
+        "page": "pp.342—350",
+        "no": "No.4",
+        "vol": "Vol.42",
+        "book": "計測自動制御学会論文集"
+    }
+]

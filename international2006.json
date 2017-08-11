@@ -1,0 +1,204 @@
+[
+    {
+        "author": [
+            "Michita_Imai",
+            "Yutaka_Hirota",
+            "Satoru_Satake",
+            "Hideyuki_Kawashima"
+        ],
+        "title": "Semantic_Sensor_Network_for_Physically_Grounded_Applications",
+        "year": "2006",
+        "page": "pp.1637–1642",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_in_ICARCV",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Guo_Bin",
+            "Satoru_Satake",
+            "Michita_Imai"
+        ],
+        "title": "Sixth-Sense:_Context_Reasoning_for_Potential_Objects_Detection_in_Smart_Sensor_Rich_Environment",
+        "year": "2006",
+        "page": "pp.18-22",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the_IEEE/WIC/ACM_International_Conference_on_Intelligent_Agent_Technology",
+        "abbrv": "IAT"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Yutaka_Hirota",
+            "Satoru_Satake",
+            "Hideyuki_Kawashima"
+        ],
+        "title": "Semantic_Connection_between_Everyday_Objects_and_a_Sensor_Network",
+        "year": "2006",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Semantic_Sensor_Networks_Workshop:_A_workshop_of_International_Semantic_Web_Conference",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Osamu_Sugiyama",
+            "Takayuki_Kanda",
+            "Michita_Imai",
+            "Hiroshi_Ishiguro",
+            "Norihiro_Hagita"
+        ],
+        "title": "Three-Layer_Model_for_Generation_and_Recognition_of_Attention-Drawing_Behavior",
+        "year": "2006",
+        "page": "pp.5843-5850",
+        "no": "",
+        "vol": "",
+        "book": "Three-Layer_Model_for_Generation_and_Recognition_of_Attention-Drawing_Behavior",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Acquisition_of_Body_Image_by_Anthropomorphization_Framework",
+        "year": "2006",
+        "page": "pp.1460-1465",
+        "no": "",
+        "vol": "",
+        "book": "Joint_3rd_International_Conference_on_Soft_Computing_and_Intelligent_Systems_and_7th_International_Symposium_on_advanced_Intelligent_Systems",
+        "abbrv": "SCIS&ISIS"
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa",
+            "Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Anthropomorphization_of_an_Object_by_Displaying_Robot",
+        "year": "2006",
+        "page": "Vol.15 pp.763-768",
+        "no": "",
+        "vol": "",
+        "book": "The_15th_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Hideyuki_Kawashima",
+            "Takaki_Matsushita",
+            "Satoru_Satake",
+            "Michita_Imai",
+            "Yasuhide_Shinagawa",
+            "Yuichiro_Anzai"
+        ],
+        "title": "PORSCHE:_A_Physical_Objects_Recommender_System_for_Cell_Phone_Users",
+        "year": "2006",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "roc._of_2nd_International_Workshop_on_Personalized_Context_Modeling_and_Management_for_UbiComp_Applications",
+        "abbrv": "ubiPCMM"
+    },
+    {
+        "author": [
+            "Hideyuki_Kawashima",
+            "Yutaka_Hirota",
+            "Satoru_Satake",
+            "Michita_Imai"
+        ],
+        "title": "MeT:_A_Real_World_Oriented_Metadata_Management_System_for_Semantic_Sensor_Network",
+        "year": "2006",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Proc._Of_the_3rd_International_Workshop_on_Data_Management_for_Sensor_Networks",
+        "abbrv": "DMSN"
+    },
+    {
+        "author": [
+            "Michita_Imai",
+            "Yutaka_Hirota",
+            "Satoru_Satake",
+            "Hideyuki_Kawashima"
+        ],
+        "title": "“Description_of_Environments_with_Semantic_Sensor_Network”",
+        "year": "2006",
+        "page": "pp.1280–1285",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_in_SCIS&amp;ISIS2006",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Hideyuki_Kawashima",
+            "Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Providing_Persistence_for_Sensor_Data_Streams_by_Remote_WAL",
+        "year": "2006",
+        "page": "pp.524-533",
+        "no": "",
+        "vol": "",
+        "book": "LNCS_4081_(DaWaK_2006)",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Hirotaka_Osawa，Jun_Mukai",
+            "Michita_Imai"
+        ],
+        "title": "Acquisition_of_Subjective_Representation_Using_Body_Parts_by_an_Object",
+        "year": "2006",
+        "page": "Vol.5 pp.173-174",
+        "no": "",
+        "vol": "",
+        "book": "5th_International_Conference_of_the_Cognitive_Science",
+        "abbrv": "ICCS"
+    },
+    {
+        "author": [
+            "Hideyuki_Kawashima，Michita_Imai",
+            "Yuchiro_Anzai"
+        ],
+        "title": "DAC:_Accelerating_Remote_WAL_for_Sensor-Oriented_DBMS",
+        "year": "2006",
+        "page": "pp.139",
+        "no": "",
+        "vol": "",
+        "book": "INSS2006",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Hideyuki_Kawashima，Michita_Imai",
+            "Yuchiro_Anzai"
+        ],
+        "title": "Accelerating_Remote_Logging_by_Two_Level_Asynchronous_Checkpointing",
+        "year": "2006",
+        "page": "pp.206—210",
+        "no": "",
+        "vol": "",
+        "book": "MDM2006_workshop_FMUIT",
+        "abbrv": ""
+    },
+    {
+        "author": [
+            "Satoru_Satake",
+            "Hideyuki_Kawashima，Kenshiro_Hirose，Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "IRIOS:Interactive_News_Announcer_Robot_System",
+        "year": "2006",
+        "page": " pp. 733-740",
+        "no": "",
+        "vol": "Vol._3842",
+        "book": "APWeb_2006_International_Workshops:_XRA,_IWSN,_MEGA,_and_ICSE,_Lecture_Notes_in_computer_Science",
+        "abbrv": ""
+    }
+]

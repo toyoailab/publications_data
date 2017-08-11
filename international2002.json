@@ -1,0 +1,100 @@
+[
+    {
+        "author": [
+            "Hideyuki_Kawashima",
+            "Motomichi_Toyama",
+            "Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Providing_Persistence_for_Sensor_Data_Stream_with_Temporal_Consistency_Conscious_WAL",
+        "year": "2002",
+        "page": "pp.257-264",
+        "no": "",
+        "vol": "",
+        "book": "Pacific_Rim_International_Symposium_on_Dependable_Computing",
+        "abbrv": "PRDC"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda",
+            "Hiroshi_Ishiguro",
+            "Michita_Imai",
+            "Tetsuo_Ono",
+            "Kenji_Mase"
+        ],
+        "title": "A_constructive_approach_for_developing_interactive_humanoid_robots",
+        "year": "2002",
+        "page": "pp.1265-1270",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_IEEE/RSJ_International_Conference_on_Intelligent_Robots_and_Systems",
+        "abbrv": "IROS"
+    },
+    {
+        "author": [
+            "Michita_Imai、Takayuki_Kanda、Tetsuo_Ono、Hiroshi_Ishiguro、Kenji_Mase"
+        ],
+        "title": "Robot-Mediated_Round_Table:_Analysis_of_the_Effect_of_Robot’s_Gaze",
+        "year": "2002",
+        "page": "pp.411-416",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_11th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda、Hiroshi_Ishiguro、Tetsuo_Ono、Michita_Imai、Kenji_Mase"
+        ],
+        "title": "Multi-robot_Cooperation_for_Human-Robot_Communication",
+        "year": "2002",
+        "page": "pp.271-276",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_11th_IEEE_International_Workshop_on_Robot_and_Human_Communication",
+        "abbrv": "ROMAN"
+    },
+    {
+        "author": [
+            "Hideyuki_Kawashima",
+            "Motomichi_Toyama",
+            "Michita_Imai",
+            "Yuichiro_Anzai"
+        ],
+        "title": "Providing_Persistence_for_Sensor_Stream_with_Light_Neighbor_WAL",
+        "year": "2002",
+        "page": "pp.13-18",
+        "no": "",
+        "vol": "",
+        "book": "IASTED_International_Conference_information_System_and_Database",
+        "abbrv": "ISDB"
+    },
+    {
+        "author": [
+            "Hiroshi_Ishiguro",
+            "Takahiro_Miyashita",
+            "Takayuki_Kanda",
+            "Tetsuo_Ono",
+            "Michita_Imai"
+        ],
+        "title": "Robovie:_An_Interactive_Humanoid_Robot_&#8211;_Toward_new_information_media_support_communications",
+        "year": "2002",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_International_Conference_on_Robotics_and_Automation",
+        "abbrv": "ICRA"
+    },
+    {
+        "author": [
+            "Takayuki_Kanda、Hiroshi_Ishiguro、Tetsuo_Ono、Michita_Imai、Ryouhei_Nakatsu"
+        ],
+        "title": "Development_and_Evaluation_of_an_Interactive_Humanoid_RobotRobovie",
+        "year": "2002",
+        "page": "pp.1848-1855",
+        "no": "",
+        "vol": "",
+        "book": "IEEE_International_Conference_on_Robotics_and_Automation",
+        "abbrv": "ICRA"
+    }
+]
