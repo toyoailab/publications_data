@@ -6,5 +6,6 @@
 ## 注意
 このリポジトリのデータは[Webサイト](https://imai-laboratory.github.io/webpage/#/publication)から参照されます。
 Jsonフォーマットにエラーの無いようにお願いします。
+ブラウザのキャッシュが強固なため、反映に時間のかかることがあります。
 
 年度ファイルを追加した場合は`*_years.json`に追記ください。
