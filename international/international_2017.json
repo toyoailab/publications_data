@@ -1,4 +1,3 @@
-[
     {
         "author": [
             "Yuuki_Yasumatsu",
@@ -57,5 +56,19 @@
         "vol": "",
         "book": "the_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
         "abbrv": "ROMAN"
+    }.
+    {
+        "author": [
+            "Shiori_Sawada",
+            "Taichi_sono",
+            "Michita_Imai"
+        ],
+        "title": "Agent Auto-Generation System : Interact with your favorite things",
+        "year": "2017",
+        "page": " pp.201-206",
+        "no": "",
+        "vol": "",
+        "book": "Proceedings_of_the 2017 26th IEEE International Symposium on Robot and Human Interactive Communication (RO-MAN)",
+        "abbrv": ""
     }
 ]
