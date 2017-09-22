@@ -42,6 +42,20 @@
         "vol": "",
         "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
         "abbrv": ""
+    },
+    {
+        "author": [
+            "Kiyona_Oto",
+            "Jianmei_Feng",
+            "Michita_Imai"
+        ],
+        "title": "Investigating_how_people_deal_with_silence_in_a_human-robot_conversation",
+        "year": "2017",
+        "page": " pp.195-200",
+        "no": "",
+        "vol": "",
+        "book": "the_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
+        "abbrv": "ROMAN"
     }.
     {
         "author": [
