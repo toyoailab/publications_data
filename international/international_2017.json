@@ -1,6 +1,81 @@
 [
      {
         "author": [
+            "Masahiko_Osawa",
+            "Yuta_Ashihara",
+            "Takuma_Seno",
+            "Michita_Imai",
+            "Satoshi_Kurihara"
+        ],
+        "title": "Accumulator Based Arbitration Model for both Supervised and Reinforcement Learning Inspired by Prefrontal Cortex",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The 24th International Conference On Neural Information Processing",
+        "abbrv": ""
+     },
+     {
+        "author": [
+            "Yosuke_Fukuchi",
+            "Masahiko_Osawa",
+            "Hiroshi_Yamakawa",
+            "Michita_Imai"
+        ],
+        "title": "Application of Instruction-based Behavior Explanation to a Reinforcement Learning Agent with Changing Policy",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The 24th International Conference On Neural Information Processing",
+        "abbrv": ""
+     },
+     {
+        "author": [
+            "Yosuke_Fukuchi",
+            "Masahiko_Osawa",
+            "Michita_Imai",
+            "Hiroshi_Yamakawa"
+        ],
+        "title": "Autonomous Self-Explanation of Behavior for Interactive Reinforcement Learning Agents",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "5th International Conference on Human-Agent Interaction",
+        "abbrv": ""
+     },
+     {
+        "author": [
+            "Masahiko_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "The Functional Plausibility of Topologically Extended Models of RBMs as Hippocampal Models",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
+        "abbrv": ""
+     },
+     {
+        "author": [
+            "Sei_Ueno",
+            "Masahiko_Osawa",
+            "Michita_Imai",
+            "Tsuneo_Kato",
+            "Hiroshi_Yamakawa"
+        ],
+        "title": "Reinforcement Learning Framework for Robots in the Real World that Extends Cognitive Architecture: Prototype Simulation Environment 'Re:ROS'",
+        "year": "2017",
+        "page": "pp.198-206",
+        "no": "",
+        "vol": "636",
+        "book": "Biologically Inspired Cognitive Architectures (BICA) for Young Scientists",
+        "abbrv": ""
+     },
+     {
+        "author": [
             "Yuuki_Yasumatsu",
             "Taichi_Sono",
             "Komei_Hasegawa",
