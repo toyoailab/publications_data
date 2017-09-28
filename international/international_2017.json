@@ -1,5 +1,5 @@
 [
-     {
+    {
         "author": [
             "Masahiko_Osawa",
             "Yuta_Ashihara",
@@ -14,8 +14,8 @@
         "vol": "",
         "book": "The 24th International Conference On Neural Information Processing",
         "abbrv": ""
-     },
-     {
+    },
+    {
         "author": [
             "Yosuke_Fukuchi",
             "Masahiko_Osawa",
@@ -29,8 +29,8 @@
         "vol": "",
         "book": "The 24th International Conference On Neural Information Processing",
         "abbrv": ""
-     },
-     {
+    },
+    {
         "author": [
             "Yosuke_Fukuchi",
             "Masahiko_Osawa",
@@ -44,8 +44,8 @@
         "vol": "",
         "book": "5th International Conference on Human-Agent Interaction",
         "abbrv": ""
-     },
-     {
+    },
+    {
         "author": [
             "Masahiko_Osawa",
             "Michita_Imai"
@@ -57,8 +57,8 @@
         "vol": "",
         "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
         "abbrv": ""
-     },
-     {
+    },
+    {
         "author": [
             "Sei_Ueno",
             "Masahiko_Osawa",
@@ -73,8 +73,8 @@
         "vol": "636",
         "book": "Biologically Inspired Cognitive Architectures (BICA) for Young Scientists",
         "abbrv": ""
-     },
-     {
+    },
+    {
         "author": [
             "Yuuki_Yasumatsu",
             "Taichi_Sono",
@@ -87,7 +87,8 @@
         "no": "",
         "vol": "",
         "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
-        "abbrv": ""
+        "abbrv": "",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIcmNsVnRGSzlSbmc/view?usp=drivesdk"
     },
     {
         "author": [
@@ -102,7 +103,8 @@
         "no": "",
         "vol": "",
         "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
-        "abbrv": ""
+        "abbrv": "",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIV2wyeTVwVU82enc/view?usp=drivesdk"
     },
     {
         "author": [
@@ -117,7 +119,8 @@
         "no": "",
         "vol": "",
         "book": "Proceedings_of_the_2017_ACM/IEEE_International_Conference_on_Human-Robot_Interaction",
-        "abbrv": ""
+        "abbrv": "",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIbDdCTDZZbThvUVE/view?usp=drivesdk"
     },
     {
         "author": [

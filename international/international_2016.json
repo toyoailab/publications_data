@@ -11,7 +11,8 @@
         "no": "",
         "vol": "",
         "book": "The 23rd International Conference on Neural Information Processing",
-        "abbrv": "ICONIP"
+        "abbrv": "ICONIP",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIOEMxUVBicFZfTWc/view?usp=drivesdk"
     },
     {
         "author": [
@@ -25,7 +26,8 @@
         "no": "",
         "vol": "",
         "book": "The_4th_International_Conference_on_Human-Agent_Interaction",
-        "abbrv": ""
+        "abbrv": "",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIWk5hNkhWeGp2QUU/view?usp=drivesdk"
     },
     {
         "author": [
@@ -40,6 +42,7 @@
         "no": "",
         "vol": "",
         "book": "the_IEEE_International_Symposium_on_Robot_and_Human_Interactive_Communication",
-        "abbrv": "ROMAN"
+        "abbrv": "ROMAN",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIVmtJZlRlT19McWM/view?usp=drivesdk"
     }
 ]
