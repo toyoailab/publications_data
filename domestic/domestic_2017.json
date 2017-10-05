@@ -10,7 +10,8 @@
         "page": "1D1-3",
         "no": "",
         "vol": "",
-        "book": "人工知能学会全国大会(第31回)"
+        "book": "人工知能学会全国大会(第31回)",
+        "draft_pdf_url": "https://kaigi.org/jsai/webprogram/2017/pdf/447.pdf"
     },
     {
         "author": [
@@ -24,7 +25,7 @@
         "no": "",
         "vol": "",
         "book": "人工知能学会全国大会(第31回)",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIS0VDdHoxZHctb00/view?usp=drivesdk"
+        "draft_pdf_url": "https://kaigi.org/jsai/webprogram/2017/pdf/649.pdf"
     },
     {
         "author": [
@@ -161,7 +162,7 @@
         "no": "",
         "vol": "",
         "book": "第5回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudITkJ3QXY2MWZWVHM/view?usp=drivesdk"
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-05/publications/SIG-AGI-005-08.pdf"
     },
     {
         "author": [
@@ -175,7 +176,7 @@
         "no": "",
         "vol": "",
         "book": "第5回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIYV9BNjJiNGJEa00/view?usp=drivesdk"
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-05/publications/SIG-AGI-005-03.pdf"
     },
     {
         "author": [
@@ -206,7 +207,7 @@
         "no": "",
         "vol": "",
         "book": "第6回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/open?id=0B8j5f8TKRudIQUJnNW1Gc0dXT3M"
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-06/publications/SIG-AGI-006-07.pdf?attredirects=0"
     },
     {
         "author": [
@@ -221,7 +222,7 @@
         "no": "",
         "vol": "",
         "book": "第6回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/file/d/0B8j5f8TKRudIS1dwS1BiNjdfRkE/view?usp=sharing"
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-06/publications/SIG-AGI-006-08.pdf?attredirects=0"
     },
     {
         "author": [
@@ -249,7 +250,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "第6回汎用人工知能研究会"
+        "book": "第6回汎用人工知能研究会",
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-06/publications/SIG-AGI-006-01.pdf?attredirects=0"
     },
     {
         "author": [
