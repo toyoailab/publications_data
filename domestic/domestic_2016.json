@@ -123,13 +123,13 @@
             "長谷川_孔明",
             "今井_倫太"
         ],
-        "title": "_模倣によるヒューマンエージェントインタラクションの改善効果の検討&#8221;",
+        "title": "模倣によるヒューマンエージェントインタラクションの改善効果の検討&#8221;",
         "year": "2016",
         "page": "No.226",
         "no": "",
         "vol": "Vol.116",
         "book": "クラウドネットワークロボット研究会",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudINEh5bFhjc3lNcUU/view?usp=drivesdk"
+        "draft_pdf_url": ""
     },
     {
         "author": [
@@ -184,7 +184,7 @@
         "no": "",
         "vol": "",
         "book": "人工知能学会全国大会(第30回)",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIVWluNVBOdmZBSms/view?usp=drivesdk"
+        "draft_pdf_url": ""
     },
     {
         "author": [
@@ -227,7 +227,7 @@
         "no": "",
         "vol": "Vol.4",
         "book": "情報処理学会全国大会(第78回)",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudITlkwY0p1N0NaR1E/view?usp=drivesdk"
+        "draft_pdf_url": ""
     },
     {
         "author": [
@@ -241,7 +241,7 @@
         "no": "",
         "vol": "Vol.4",
         "book": "情報処理学会全国大会(第78_回)",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIaWRfM0lReWpwR0k/view?usp=drivesdk"
+        "draft_pdf_url": ""
     },
     {
         "author": [
@@ -270,7 +270,7 @@
         "no": "",
         "vol": "Vol.4",
         "book": "情報処理学会全国大会(第78回)",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIWk9HWWpSYjJYR0E/view?usp=drivesdk"
+        "draft_pdf_url": ""
     },
     {
         "author": [
@@ -286,7 +286,7 @@
         "no": "",
         "vol": "",
         "book": "第4回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIdUJrQkM3RWM5Y00/view?usp=drivesdk"
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-04/publications/SIG-AGI-004-08.pdf"
     },
     {
         "author": [
@@ -301,7 +301,7 @@
         "no": "",
         "vol": "",
         "book": "第4回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIaU9fRV9OSEdWS2M/view?usp=drivesdk"
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-04/publications/SIG-AGI-004-06.pdf"
     },
     {
         "author": [
@@ -315,7 +315,7 @@
         "no": "No._306",
         "vol": "Vol._116",
         "book": "クラウドネットワークロボット研究会",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIZU00OHhxOG96X0E/view?usp=drivesdk"
+        "draft_pdf_url": ""
     },
     {
         "author": [
@@ -329,6 +329,6 @@
         "no": "",
         "vol": "",
         "book": "第3回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudINE9xOGhzUmtkc1U/view?usp=drivesdk"
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-03/publications/SIG-AGI-003-05.pdf"
     }
 ]
