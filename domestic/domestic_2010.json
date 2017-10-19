@@ -127,7 +127,8 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "第72回情報処理学会全国大会講演論文集(CD-ROM)"
+        "book": "第72回情報処理学会全国大会講演論文集(CD-ROM)",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIUlprcU1UUkdEYjQ/view?usp=drivesdk"
     },
     {
         "author": [
@@ -153,6 +154,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "インタラクション2010（インタラクティブ発表）"
+        "book": "インタラクション2010（インタラクティブ発表）",
+        "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIdjQ4QVFybWxJUEk/view?usp=drivesdk"
     }
 ]
