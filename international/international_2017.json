@@ -126,6 +126,22 @@
     },
     {
         "author": [
+            "Yusuke Takimoto",
+            "Komei Hasegawa",
+            "Taichi Sono",
+            "Michita_Imai"
+        ],
+        "title": "A Simple Bi-Layered Architecture to Enhance the Liveness of a Robot",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "abbrv": "IROS",
+        "draft_pdf_url": "https://drive.google.com/file/d/1lSjFHs-hZX-d64-hz1rEFqzLYvWgFy1i/view?usp=sharing"
+    },
+    {
+        "author": [
             "Kiyona_Oto",
             "Jianmei_Feng",
             "Michita_Imai"
