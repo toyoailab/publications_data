@@ -1,6 +1,65 @@
 [
     {
         "author": [
+            "松森 匠哉",
+            "妹尾 卓磨",
+            "菊池 俊基",
+            "滝本 佑介",
+            "大澤 正彦",
+            "今井_倫太"
+        ],
+        "title": "Embedding Cognitive Map in Neural Episodic Control",
+        "year": "2017",
+        "page": "SIG-AGI-006-08",
+        "no": "",
+        "vol": "",
+        "book": "第7回汎用人工知能研究会",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
+            "松森 匠哉",
+            "大澤 正彦",
+            "今井_倫太"
+        ],
+        "title": "チャットシステムにおける同時性発言の影響",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "HAI Symposium",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
+            "奥岡 耕平",
+            "大澤 正彦",
+            "今井_倫太"
+        ],
+        "title": "マルチモーダル情報を用いたコンテクスト予測に基づいて伝達文字量を最適化する対話システム",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "HAI Symposium",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
+            "妹尾 卓磨",
+            "大澤 正彦",
+            "今井_倫太"
+        ],
+        "title": "無報酬な環境での深層強化学習によるロボットの行動獲得",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "HAI Symposium",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "滝本 佑介",
             "長谷川 孔明",
             "今井_倫太"
