@@ -2,23 +2,6 @@
     {
         "author": [
             "松森 匠哉",
-            "妹尾 卓磨",
-            "菊池 俊基",
-            "滝本 佑介",
-            "大澤 正彦",
-            "今井_倫太"
-        ],
-        "title": "Embedding Cognitive Map in Neural Episodic Control",
-        "year": "2017",
-        "page": "SIG-AGI-007-01",
-        "no": "",
-        "vol": "",
-        "book": "第7回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/file/d/1_yp3qhqwxbAQCG_Z4Onl-e-mssSZu9kc/view?usp=drivesdk"
-    },
-    {
-        "author": [
-            "松森 匠哉",
             "大澤 正彦",
             "今井_倫太"
         ],
@@ -60,6 +43,99 @@
     },
     {
         "author": [
+            "松森 匠哉",
+            "妹尾 卓磨",
+            "菊池 俊基",
+            "滝本 佑介",
+            "大澤 正彦",
+            "今井_倫太"
+        ],
+        "title": "Embedding Cognitive Map in Neural Episodic Control",
+        "year": "2017",
+        "page": "SIG-AGI-007-01",
+        "no": "",
+        "vol": "",
+        "book": "第7回汎用人工知能研究会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1_yp3qhqwxbAQCG_Z4Onl-e-mssSZu9kc/view?usp=drivesdk"
+    },
+    {
+        "author": [
+            "吉岡 駿",
+            "長谷川 孔明",
+            "松元 崇裕",
+            "渡部 智樹",
+            "今井 倫太"
+        ],
+        "title": "対話ロボットによる割り込みに対する人間の反応の分析",
+        "year": "2017",
+        "page": "pp.7-11",
+        "no": "no.198",
+        "vol": "vol.117",
+        "book": "クラウドネットワークロボット研究会",
+        "draft_pdf_url": "https://drive.google.com/file/d/0B8j5f8TKRudIdGRST0kzV3F4ZFk/view?usp=sharing"
+    },
+    {
+        "author": [
+            "福地_庸介",
+            "大澤_正彦",
+            "山川_宏",
+            "今井_倫太"
+        ],
+        "title": "異種エージェントへの教示に向けた Instruction-based Behavior Explanationの応用の検討",
+        "year": "2017",
+        "page": "SIG-AGI-006-07",
+        "no": "",
+        "vol": "",
+        "book": "第6回汎用人工知能研究会",
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-06/publications/SIG-AGI-006-07.pdf?attredirects=0"
+    },
+    {
+        "author": [
+            "奥岡_耕平",
+            "大澤_正彦",
+            "滝本_佑介",
+            "今井_倫太"
+        ],
+        "title": "半自律テレプレゼンスロボットによる自律化が与える遠隔操作者への影響調査",
+        "year": "2017",
+        "page": "SIG-AGI-006-08",
+        "no": "",
+        "vol": "",
+        "book": "第6回汎用人工知能研究会",
+        "draft_pdf_url": "https://drive.google.com/open?id=0B8j5f8TKRudIS1dwS1BiNjdfRkE"
+    },
+    {
+        "author": [
+            "大澤_正彦",
+            "川崎_邦将",
+            "八木_拓真",
+            "長田茂美",
+            "今井_倫太"
+        ],
+        "title": "汎用人工知能研究のマイルストーンとしての擬人化キャラクター",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第6回汎用人工知能研究会",
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-06/publications/SIG-AGI-006-01.pdf?attredirects=0"
+    },       
+    {
+        "author": [
+            "妹尾_卓磨",
+            "大澤_正彦",
+            "今井_倫太"
+        ],
+        "title": "Accumulator Based Arbitration Model DQN: 複数モジュールを調停した深層強化学習手法",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第27回日本神経回路学会全国大会",
+        "draft_pdf_url": "https://drive.google.com/file/d/1H2qT1FCqTK6TjCLMS0W1TVrouIa65RSb/view?usp=drivesdk"
+    },
+    {
+        "author": [
             "滝本 佑介",
             "長谷川 孔明",
             "今井_倫太"
@@ -85,24 +161,37 @@
         "vol": "",
         "book": "人工知能学会全国大会(第31回)",
         "draft_pdf_url": "https://kaigi.org/jsai/webprogram/2017/pdf/649.pdf"
+    },   
+    {
+        "author": [
+            "福地_庸介",
+            "大澤_正彦",
+            "岨野_太一",
+            "山川_宏",
+            "今井_倫太"
+        ],
+        "title": "深層強化学習エージェントの自己モデル獲得と行動目標説明表現の生成",
+        "year": "2017",
+        "page": "SIG-AGI-005-08",
+        "no": "",
+        "vol": "",
+        "book": "第5回汎用人工知能研究会",
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-05/publications/SIG-AGI-005-08.pdf"
     },
     {
         "author": [
-            "蓮本_諒介",
-            "小山 大幾",
-            "水本 武志",
-            "中村 圭祐",
-            "中臺 一博",
+            "山田_航佑",
+            "大澤_正彦",
             "今井_倫太"
         ],
-        "title": "ロボットとの会話における画像および音声情報を用いた人の身体動作と発話姿勢の関係に関する検討",
+        "title": "深層学習に有用な隠れ素子数の自動決定法_D-DALPの提案",
         "year": "2017",
-        "page": "CNR20",
-        "no": "462",
-        "vol": "116",
-        "book": "クラウドネットワークロボット研究会",
-        "draft_pdf_url": ""
-    },
+        "page": " ",
+        "no": "",
+        "vol": "",
+        "book": "第5回汎用人工知能研究会",
+        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-05/publications/SIG-AGI-005-03.pdf"
+    }, 
     {
         "author": [
             "北川_遼",
@@ -204,38 +293,25 @@
         "page": "pp.243-244",
         "no": "",
         "vol": "",
-        "book": "情報処理学会全国大会(第78_回)",
+        "book": "情報処理学会全国大会(第79_回)",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIVUdzVzlsTDYxa1U/view?usp=drivesdk"
     },
     {
         "author": [
-            "福地_庸介",
-            "大澤_正彦",
-            "岨野_太一",
-            "山川_宏",
+            "蓮本_諒介",
+            "小山 大幾",
+            "水本 武志",
+            "中村 圭祐",
+            "中臺 一博",
             "今井_倫太"
         ],
-        "title": "深層強化学習エージェントの自己モデル獲得と行動目標説明表現の生成",
+        "title": "ロボットとの会話における画像および音声情報を用いた人の身体動作と発話姿勢の関係に関する検討",
         "year": "2017",
-        "page": "SIG-AGI-005-08",
-        "no": "",
-        "vol": "",
-        "book": "第5回汎用人工知能研究会",
-        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-05/publications/SIG-AGI-005-08.pdf"
-    },
-    {
-        "author": [
-            "山田_航佑",
-            "大澤_正彦",
-            "今井_倫太"
-        ],
-        "title": "深層学習に有用な隠れ素子数の自動決定法_D-DALPの提案",
-        "year": "2017",
-        "page": " ",
-        "no": "",
-        "vol": "",
-        "book": "第5回汎用人工知能研究会",
-        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-05/publications/SIG-AGI-005-03.pdf"
+        "page": "CNR20",
+        "no": "462",
+        "vol": "116",
+        "book": "クラウドネットワークロボット研究会",
+        "draft_pdf_url": ""
     },
     {
         "author": [
@@ -252,81 +328,5 @@
         "vol": "",
         "book": "第29回_自律分散システムシンポジウム",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIc0FteFdyYTl4Xzg/view?usp=drivesdk"
-    },
-    {
-        "author": [
-            "福地_庸介",
-            "大澤_正彦",
-            "山川_宏",
-            "今井_倫太"
-        ],
-        "title": "異種エージェントへの教示に向けた Instruction-based Behavior Explanationの応用の検討",
-        "year": "2017",
-        "page": "SIG-AGI-006-07",
-        "no": "",
-        "vol": "",
-        "book": "第6回汎用人工知能研究会",
-        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-06/publications/SIG-AGI-006-07.pdf?attredirects=0"
-    },
-    {
-        "author": [
-            "奥岡_耕平",
-            "大澤_正彦",
-            "滝本_佑介",
-            "今井_倫太"
-        ],
-        "title": "半自律テレプレゼンスロボットによる自律化が与える遠隔操作者への影響調査",
-        "year": "2017",
-        "page": "SIG-AGI-006-08",
-        "no": "",
-        "vol": "",
-        "book": "第6回汎用人工知能研究会",
-        "draft_pdf_url": "https://drive.google.com/open?id=0B8j5f8TKRudIS1dwS1BiNjdfRkE"
-    },
-    {
-        "author": [
-            "妹尾_卓磨",
-            "大澤_正彦",
-            "今井_倫太"
-        ],
-        "title": "Accumulator Based Arbitration Model DQN: 複数モジュールを調停した深層強化学習手法",
-        "year": "2017",
-        "page": "",
-        "no": "",
-        "vol": "",
-        "book": "第27回日本神経回路学会全国大会",
-        "draft_pdf_url": "https://drive.google.com/file/d/1H2qT1FCqTK6TjCLMS0W1TVrouIa65RSb/view?usp=drivesdk"
-    },
-    {
-        "author": [
-            "大澤_正彦",
-            "川崎_邦将",
-            "八木_拓真",
-            "長田茂美",
-            "今井_倫太"
-        ],
-        "title": "汎用人工知能研究のマイルストーンとしての擬人化キャラクター",
-        "year": "2017",
-        "page": "",
-        "no": "",
-        "vol": "",
-        "book": "第6回汎用人工知能研究会",
-        "draft_pdf_url": "http://www.sig-agi.org/sig-agi/events/sig-agi-06/publications/SIG-AGI-006-01.pdf?attredirects=0"
-    },
-    {
-        "author": [
-            "吉岡 駿",
-            "長谷川 孔明",
-            "松元 崇裕",
-            "渡部 智樹",
-            "今井 倫太"
-        ],
-        "title": "対話ロボットによる割り込みに対する人間の反応の分析",
-        "year": "2017",
-        "page": "pp.7-11",
-        "no": "no.198",
-        "vol": "vol.117",
-        "book": "クラウドネットワークロボット研究会",
-        "draft_pdf_url": "https://drive.google.com/file/d/0B8j5f8TKRudIdGRST0kzV3F4ZFk/view?usp=sharing"
     }
 ]
