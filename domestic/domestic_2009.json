@@ -10,7 +10,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "HAIシンポジウム2009_２C「動作生成」(Human-Agent_Interaction_Symposium_2009)",
+        "book": "HAIシンポジウム2009",
         "draft_pdf_url": "https://drive.google.com/a/keio.jp/file/d/0B8j5f8TKRudIa25FYzBiLUQ3WE0/view?usp=drivesdk"
     },
     {
@@ -25,7 +25,7 @@
         "page": "pp.1H2-3",
         "no": "",
         "vol": "",
-        "book": "第23回人工知能学会全国大会"
+        "book": "人工知能学会全国大会(第23回)"
     },
     {
         "author": [
@@ -36,7 +36,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "第23回日本人工知能学会全国大会予稿集"
+        "book": "人工知能学会全国大会(第23回)"
     },
     {
         "author": [
@@ -53,7 +53,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "第23回日本人工知能学会全国大会予稿集"
+        "book": "人工知能学会全国大会(第23回)"
     },
     {
         "author": [
@@ -67,7 +67,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "第23回日本人工知能学会全国大会予稿集"
+        "book": "人工知能学会全国大会(第23回)"
     },
     {
         "author": [
@@ -84,6 +84,6 @@
         "page": "",
         "no": "",
         "vol": "1H1_ロボットと実世界「知能ロボット」",
-        "book": "第23回日本人工知能学会全国大会予稿集"
+        "book": "人工知能学会全国大会(第23回)"
     }
 ]
