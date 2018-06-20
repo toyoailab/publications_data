@@ -1,4 +1,127 @@
-[ {
+[ 
+        {
+        "author": [
+            "福地庸介",
+            "大澤 正彦",
+            "山川 宏",
+            "今井 倫太"
+        ],
+        "title": "深層学習エージェントの自己モデルによる意図の解釈",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "情報処理学会 第79回全国大会",
+        "draft_pdf_url": ""
+    },
+        {
+        "author": [
+            "山田 航佑",
+            "大澤 正彦",
+            "今井 倫太"
+        ],
+        "title": "深層学習に有用な隠れ素子数の自動決定法 D-DALPの提案",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第5回汎用人工知能研究会",
+        "draft_pdf_url": ""
+    },
+        {
+        "author": [
+            "福地 庸介",
+            "大澤 正彦",
+            "岨野 太一",
+            "山川 宏",
+            "今井 倫太"
+        ],
+        "title": "深層強化学習エージェントの自己モデル獲得と行動目標説明表現の生成",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第5回汎用人工知能研究会",
+        "draft_pdf_url": ""
+    },
+        {
+        "author": [
+            "妹尾 卓磨",
+            "大澤 正彦",
+            "今井 倫太"
+        ],
+        "title": "Accumulator Based Arbitration Model DQN: Deep Reinforcement Learning Arbitrating Multiple Modules",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "日本神経回路学会第27回全国大会",
+        "draft_pdf_url": ""
+    },   
+      {
+        "author": [
+            "福地 庸介",
+            "大澤 正彦",
+            "山川 宏",
+            "今井 倫太"
+        ],
+        "title": "異種エージェントへの教示に向けたInstruction-based Behavior Explanationの応用の検討",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第6回汎用人工知能研究会",
+        "draft_pdf_url": ""
+    },   
+        {
+        "author": [
+            "奥岡 耕平",
+            "大澤 正彦",
+            "滝本 祐介",
+            "今井 倫太"
+        ],
+        "title": "半自律テレプレゼンスロボットによる自律化が与える遠隔操作者への影響調査",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第6回汎用人工知能研究会",
+        "draft_pdf_url": ""
+    },
+        {
+        "author": [
+            "大澤 正彦",
+            "川崎 邦将",
+            "八木 拓真",
+            "長田 茂美",
+            "今井 倫太"
+        ],
+        "title": "汎用人工知能研究のマイルストーンとしての擬人化キャラクター",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第6回汎用人工知能研究会",
+        "draft_pdf_url": ""
+    },
+ {
+        "author": [
+            "松森 匠哉",
+            "妹尾 卓磨",
+            "菊池 俊基",
+            "滝本 佑介",
+            "大澤 正彦",
+            "今井 倫太"
+        ],
+        "title": "Embedding Cognitive Map in Neural Episodic Control",
+        "year": "2017",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "第7回汎用人工知能研究会",
+        "draft_pdf_url": ""
+    },
+        {
         "author": [
             "大藤 聖菜",
             "妹尾 卓磨",
