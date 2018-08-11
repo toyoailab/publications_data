@@ -1,4 +1,19 @@
 [
+   {
+        "author": [
+            "Takuma_Seno",
+            "Mitsuhiro_Goto",
+            "Michita_Imai"
+        ],
+        "title": "An Intrinsically Motivated Robot Explores Non-reward Environments With Output Arbitration",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
+        "abbrv": "BICA",
+        "draft_pdf_url":  "https://drive.google.com/file/d/1cMicejFpcY4O1zTMBdkctho84leEnB-V/view?usp=drivesdk"
+    },
     {
         "author": [
             "Takahiro_Matsumoto",
