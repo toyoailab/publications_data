@@ -1,6 +1,34 @@
 [
      {
         "author": [
+            "澤田 志織",
+            "岨野 太一",
+            "今井 倫太"
+        ],
+        "title": "ウォークスルー映像中の物体を用いた擬人化エージェント自動生成システム",
+        "year": "2018",
+        "page": "188-191",
+        "no": "",
+        "vol": "",
+        "book": "ヒューマンインタフェースシンポジウム2018",
+        "draft_pdf_url": "https://drive.google.com/open?id=196JkS0mcHrHM4Mnmiby5fc-6edXqlK3l"
+     },
+     {
+        "author": [
+            "大藤 聖菜",
+            "岨野 太一",
+            "今井 倫太"
+        ],
+        "title": "テレプレゼンスロボットを使用した会話チャンネル維持方法の検討",
+        "year": "2018",
+        "page": "12-15",
+        "no": "",
+        "vol": "",
+        "book": "ヒューマンインタフェースシンポジウム2018",
+        "draft_pdf_url": "https://drive.google.com/open?id=11Zz7gg0SdKujp7nYLEp2g09CaQSoLbru"
+     },
+     {
+        "author": [
             "大澤 正彦",
             "齋藤 和紀",
             "三宅 陽一郎",
@@ -120,19 +148,5 @@
         "vol": "",
         "book": "情報処理学会第80回全国大会",
         "draft_pdf_url": "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=188606&file_id=1&file_no=1"
-    },
-     {
-        "author": [
-            "澤田 志織",
-            "岨野 太一",
-            "今井 倫太"
-        ],
-        "title": "ウォークスルー映像中の物体を用いた擬人化エージェント自動生成システム",
-        "year": "2018",
-        "page": "188-191",
-        "no": "",
-        "vol": "",
-        "book": "ヒューマンインタフェースシンポジウム2018",
-        "draft_pdf_url": "https://drive.google.com/open?id=196JkS0mcHrHM4Mnmiby5fc-6edXqlK3l"
     }
 ]
