@@ -16,6 +16,23 @@
     },
     {
         "author": [
+            "Shohei_Akita",
+            "Satoru_Satake",
+            "Masahiro_Shiomi",
+            "Michita_Imai",
+            "Takayuki_Kanda"
+        ],
+        "title": "Social Coordination for Looking-Together Situations",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The IEEE/RSJ International Conference on Intelligent Robots and Systems",
+        "abbrv": "IROS 2018",
+        "draft_pdf_url":  "https://drive.google.com/a/ailab.ics.keio.ac.jp/file/d/1U33TNWjAfQRQ1pw_tvustvJic4NMI_6m/view?usp=drivesdk"
+    },
+    {
+        "author": [
             "Ryo_Kitagawa",
             "Michita_Imai",
             "Kazuhiro_Nakadai"
