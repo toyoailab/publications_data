@@ -1,6 +1,22 @@
 [
     {
         "author": [
+            "Masahiko Osawa",
+            "Kotaro Mizuta",
+            "Hiroshi Yamakawa",
+            "Yasunori Hayashi",
+            "Michita Imai"
+        ],
+        "title": "Development of Biologically Inspired Artificial General Intelligence Navigated by Circuits Associated with Task",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The 28th Annual Conference of Japanese Neural Network Society",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Takuma Seno",
             "Masahiko Osawa",
             "Michita Imai"
@@ -10,7 +26,7 @@
         "page": "",
         "no": "",
         "vol": "",
-        "book": "28th Annual Conference of Japanese Neural Network Society",
+        "book": "The 28th Annual Conference of Japanese Neural Network Society",
         "draft_pdf_url": ""
     },
      {

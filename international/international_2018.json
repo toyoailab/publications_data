@@ -31,6 +31,25 @@
     },
     {
         "author": [
+            "Masahiko_Osawa",
+            "Takashi_Omori",
+            "Koichi_Takahashi",
+            "Naoya_Arakawa",
+            "Naoyuki_Sakai",
+            "Michita_Imai",
+            "Hiroshi_Yamakawa"
+        ],
+        "title": "Function Map-Driven Development for AGI",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
+        "abbrv": "BICA",
+        "draft_pdf_url":  ""
+    },
+    {
+        "author": [
             "Takuma_Seno",
             "Masahiko_Osawa",
             "Michita_Imai"
