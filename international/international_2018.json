@@ -1,6 +1,22 @@
 [
     {
         "author": [
+            "Shoya_Matsumori",
+            "Yosuke_Fukuchi",
+            "Masahiko_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Do Others Believe What I Believe? Estimating How Much Information is being Shared by Utterance Timing",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "6th International Conference on Human-Agent Interaction",
+        "abbrv": "HAI",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Kohei_Okuoka",
             "Yusuke_Takimoto",
             "Masahiko_Osawa",
@@ -78,6 +94,22 @@
         "book": "The 27th IEEE International Conference on Robot and Human Interactive Communication",
         "abbrv": "RO-MAN 2018",
         "draft_pdf_url":  "https://drive.google.com/open?id=14zN_GZoPCFmauxFD9sjhXg-MUlNonObq"
+    },
+    {
+        "author": [
+            "Shoya_Matsumori",
+            "Yuki_Abe",
+            "Masahiko_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Investigation of Incremental Learning as Temporal Feature Extraction",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
+        "abbrv": "BICA",
+        "draft_pdf_url":  "https://drive.google.com/a/ailab.ics.keio.ac.jp/file/d/1W-UDhsYyw1LiExrEjDauMRxrfuXLExM7/view?usp=sharing"
     },
     {
         "author": [
