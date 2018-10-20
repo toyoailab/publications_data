@@ -31,5 +31,20 @@
         "book": "Proceedings of the 2018 ACM/IEEE International Conference on Human-Robot Interaction",
         "abbrv": "HRI 2018",
         "draft_pdf_url":  "https://drive.google.com/file/d/1cMicejFpcY4O1zTMBdkctho84leEnB-V/view?usp=drivesdk"
+    },
+    {
+        "author": [
+            "Ryo_Kitagawa",
+            "Michita_Imai",
+            "Kazuhiro_Nakadai",
+        ],
+        "title": "Estimation of interest in interaction with robots",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The 27th IEEE International Conference on Robot and Human Interactive Communication",
+        "abbrv": "RO-MAN 2018",
+        "draft_pdf_url":  "https://drive.google.com/open?id=14zN_GZoPCFmauxFD9sjhXg-MUlNonObq"
     }
 ]
