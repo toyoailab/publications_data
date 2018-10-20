@@ -1,6 +1,22 @@
 [
     {
         "author": [
+            "Shoya Matsumori",
+            "Yosuke Fukuchi",
+            "Masahiko_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Do Others Believe What I Believe? Estimating How Much Information is being Shared by Utterance Timing",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "6th International Conference on Human-Agent Interaction",
+        "abbrv": "HAI",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Kohei_Okuoka",
             "Yusuke_Takimoto",
             "Masahiko_Osawa",
