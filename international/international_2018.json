@@ -16,6 +16,24 @@
     },
     {
         "author": [
+            "Yosuke_Fukuchi",
+            "Masahiko_Osawa",
+            "Hiroshi_Yamakawa",
+            "Tatsuji_Takahashi",
+            "Masahiko_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Bayesian Inference of Self-intention Attributed by Observer",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "6th International Conference on Human-Agent Interaction",
+        "abbrv": "HAI",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Shohei_Akita",
             "Satoru_Satake",
             "Masahiro_Shiomi",
