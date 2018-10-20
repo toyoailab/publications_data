@@ -16,6 +16,21 @@
     },
     {
         "author": [
+            "Shoya Matsumori",
+            "Yuki Abe",
+            "Masahiko Osawa",
+            "Michita Imai"
+        ],
+        "title": "An Investigation of Incremental Learning as a Temporal Feature Extraction",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "The 28th Annual Conference of Japanese Neural Network Society",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Masahiko Osawa",
             "Kotaro Mizuta",
             "Hiroshi Yamakawa",
