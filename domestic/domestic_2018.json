@@ -1,6 +1,21 @@
 [
     {
         "author": [
+            "永吉秋平",
+            "奥岡耕平",
+            "大澤正彦",
+            "今井倫太"
+        ],
+        "title":　"ロボットの行動原理を形成した経験の提示が行動の意図を人に想定させるか",
+        "year": "2018"
+        "page": "SIG-AGI-009-03",
+        "no": "",
+        "vol": "",
+        "book": "第9回汎用人工知能研究",
+        "draft_pdf_url": "https://jsai.ixsq.nii.ac.jp/ej/index.php?action=pages_view_main&active_action=repository_action_common_download&item_id=9427&item_no=1&attribute_id=1&file_no=1&page_id=13&block_id=23"
+    },
+    {
+        "author": [
             "Masahiko Osawa",
             "Kotaro Mizuta",
             "Hiroshi Yamakawa",
