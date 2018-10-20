@@ -97,6 +97,22 @@
     },
     {
         "author": [
+            "Shoya_Matsumori",
+            "Yuki_Abe",
+            "Masahiko_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Investigation of Incremental Learning as Temporal Feature Extraction",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "Annual International Conference on Biologically Inspired Cognitive Architectures",
+        "abbrv": "BICA",
+        "draft_pdf_url":  "https://drive.google.com/a/ailab.ics.keio.ac.jp/file/d/1W-UDhsYyw1LiExrEjDauMRxrfuXLExM7/view?usp=sharing"
+    },
+    {
+        "author": [
             "Masahiko_Osawa",
             "Takashi_Omori",
             "Koichi_Takahashi",
