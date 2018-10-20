@@ -1,6 +1,22 @@
 [
     {
         "author": [
+            "Kohei_Okuoka",
+            "Yusuke_Takimoto",
+            "Masahiko_Osawa",
+            "Michita_Imai"
+        ],
+        "title": "Semi-Aunotonomous Telepresence Robot for Adaptively Switching Operation using Inhibition and Disinhibition Mechanism",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "6th International Conference on Human-Agent Interaction",
+        "abbrv": "HAI",
+        "draft_pdf_url": ""
+    },
+    {
+        "author": [
             "Takuma_Seno",
             "Masahiko_Osawa",
             "Michita_Imai"
