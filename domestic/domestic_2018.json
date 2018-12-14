@@ -223,5 +223,20 @@
         "vol": "",
         "book": "情報処理学会第80回全国大会",
         "draft_pdf_url": "https://ipsj.ixsq.nii.ac.jp/ej/?action=repository_uri&item_id=188606&file_id=1&file_no=1"
+    },
+    {
+        "author": [
+            "吉岡 駿",
+            "大澤 正彦",
+            "篠澤 一彦",
+            "今井 倫太",
+            ],
+        "title": "動力学モデルを用いたロボットの視線操作",
+        "year": "2018",
+        "page": "",
+        "no": "",
+        "vol": "",
+        "book": "ヒューマンインタフェースシンポジウム2018",
+        "draft_pdf_url": ""
     }
 ]
